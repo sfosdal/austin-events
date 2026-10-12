@@ -1,0 +1,8 @@
+{
+  "_": "Off-season blurbs for the Teams view's form block (app.js renderTeamForm): shown before a season starts and once one is well over. Plain text, one per team slug. Edit freely — nothing generates this file.",
+  "longhorns": "The Longhorns' football season runs late August to November at DKR, with the SEC Championship and the College Football Playoff beyond that; kickoff times fill in above as the conference confirms them, usually a week or two out.",
+  "texashoops": "The Longhorns' basketball season runs early November to March at Moody Center, with the SEC tournament and the NCAA tournament beyond that; the schedule above fills in once ESPN publishes the regular season.",
+  "austinfc": "Austin FC's MLS season runs late February to October at Q2 Stadium, 17 home matches, with the Cup playoffs through early December.",
+  "express": "Spring training opens in Surprise in February and the Express' Pacific Coast League season in late March at Dell Diamond, 75 home dates; the schedule above fills in once the league publishes it.",
+  "stars": "The Stars' AHL season runs October to April at the H-E-B Center in Cedar Park, 36 home dates, with the Calder Cup playoffs beyond that for the top teams in the Central Division."
+}

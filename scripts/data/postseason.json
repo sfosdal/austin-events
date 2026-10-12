@@ -1,0 +1,154 @@
+{
+ "_": "Each club's postseason for the season in hand — the rounds, their dates and the final's site — shown in the Teams view as 'if they qualify' until the real games arrive (the schedules flag those playoff: true, and a round with a real game in its window gives way to it). Hand-kept: update each season from the leagues' announcements. tbd: true marks a round whose dates are the usual calendar, not yet announced. Drafted 2026-10-11; the CFP rounds are the published 2026-27 dates, the rest the usual calendar.",
+ "longhorns": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "SEC Championship",
+    "start": "2026-12-05",
+    "end": "2026-12-05",
+    "site": "Mercedes-Benz Stadium, Atlanta"
+   },
+   {
+    "name": "CFP first round",
+    "start": "2026-12-19",
+    "end": "2026-12-20",
+    "tbd": true
+   },
+   {
+    "name": "CFP quarterfinals",
+    "start": "2026-12-31",
+    "end": "2027-01-01",
+    "tbd": true
+   },
+   {
+    "name": "CFP semifinals",
+    "start": "2027-01-08",
+    "end": "2027-01-09",
+    "tbd": true
+   },
+   {
+    "name": "CFP National Championship",
+    "start": "2027-01-18",
+    "end": "2027-01-18",
+    "site": "Mercedes-Benz Stadium, Atlanta",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "texashoops": {
+  "season": "2026–27",
+  "rounds": [
+   {
+    "name": "SEC Tournament",
+    "start": "2027-03-10",
+    "end": "2027-03-14",
+    "tbd": true
+   },
+   {
+    "name": "NCAA Tournament, first rounds",
+    "start": "2027-03-18",
+    "end": "2027-03-21",
+    "tbd": true
+   },
+   {
+    "name": "Sweet 16 and Elite Eight",
+    "start": "2027-03-25",
+    "end": "2027-03-28",
+    "tbd": true
+   },
+   {
+    "name": "Final Four",
+    "start": "2027-04-03",
+    "end": "2027-04-05",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "austinfc": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "Wild Card",
+    "start": "2026-10-21",
+    "end": "2026-10-22",
+    "tbd": true
+   },
+   {
+    "name": "Round One",
+    "start": "2026-10-24",
+    "end": "2026-11-08",
+    "tbd": true
+   },
+   {
+    "name": "Conference Semifinals",
+    "start": "2026-11-21",
+    "end": "2026-11-22",
+    "tbd": true
+   },
+   {
+    "name": "Conference Finals",
+    "start": "2026-11-28",
+    "end": "2026-11-29",
+    "tbd": true
+   },
+   {
+    "name": "MLS Cup",
+    "start": "2026-12-05",
+    "end": "2026-12-05",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "express": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "PCL Championship Series",
+    "start": "2026-09-22",
+    "end": "2026-09-25",
+    "tbd": true
+   },
+   {
+    "name": "Triple-A National Championship",
+    "start": "2026-09-27",
+    "end": "2026-09-27",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "stars": {
+  "season": "2026–27",
+  "rounds": [
+   {
+    "name": "Calder Cup Playoffs, first round",
+    "start": "2027-04-21",
+    "end": "2027-04-30",
+    "tbd": true
+   },
+   {
+    "name": "Division Finals",
+    "start": "2027-05-01",
+    "end": "2027-05-12",
+    "tbd": true
+   },
+   {
+    "name": "Conference Finals",
+    "start": "2027-05-13",
+    "end": "2027-05-26",
+    "tbd": true
+   },
+   {
+    "name": "Calder Cup Finals",
+    "start": "2027-05-28",
+    "end": "2027-06-14",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ }
+}

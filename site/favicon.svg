@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#1b2733"/>
+  <!-- the Lone Star, in the burnt orange the town wears on Saturdays -->
+  <polygon points="16.00,5.00 19.17,12.03 26.46,12.86 21.13,18.11 22.80,25.64 16.00,21.90 9.20,25.64 10.87,18.11 5.54,12.86 12.83,12.03" fill="#bf5700"/>
+</svg>
