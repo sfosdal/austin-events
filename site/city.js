@@ -356,6 +356,7 @@
     site: 'https://austin.here.events/',
     userAgent: 'Mozilla/5.0 (compatible; austin-events/1.0; +https://austin.here.events/)',
     tz: 'America/Chicago', tzName: 'Central', // the city's time zone: the ICS feed's TZID, the game clocks, the poster's footer
+    state: "Texas", stateOutline: 'M20.5 7.6L20.8 7.8L21.2 7.8L21.2 9.0L21.2 10.1L21.5 11.0L21.8 11.7L22.0 12.2L21.9 12.8L21.7 13.5L21.5 14.1L20.4 15.0L20.2 14.9L19.9 14.7L19.9 15.1L19.3 16.0L18.2 16.6L18.1 16.6L17.4 16.5L17.4 16.8L17.2 17.1L16.9 17.4L16.6 17.4L16.6 17.7L16.1 18.0L15.9 18.9L16.0 19.1L16.0 19.9L16.5 21.1L16.2 21.4L15.5 21.2L14.3 20.8L13.5 20.4L13.0 19.4L13.0 19.0L12.9 18.5L12.0 17.4L11.6 16.8L11.0 15.6L10.2 14.8L9.8 14.5L8.9 14.4L8.2 14.6L7.7 15.5L7.2 15.9L5.9 15.2L5.1 14.4L4.6 13.0L3.0 11.6L2.3 11.0L2.4 10.5L4.1 10.5L5.8 10.5L7.5 10.5L7.5 8.0L7.5 5.5L7.5 3.0L8.4 2.5L9.9 2.5L11.3 2.5L12.1 3.0L12.1 4.0L12.2 5.1L12.2 6.0L13.0 6.3L13.3 6.3L13.5 6.6L14.4 6.8L15.0 6.7L15.3 7.2L15.7 7.0L15.8 7.1L16.2 7.2L16.4 7.3L16.6 7.4L16.8 7.1L17.1 7.2L17.3 7.2L17.7 7.5L18.3 7.2L18.9 7.1L19.2 7.2L19.8 7.3Z', // the masthead's small state, linking to here.events (scripts/state-outline.mjs, Natural Earth 1:50m)
     // the calendar feed's header; the UID domain never changes (changing it
     // re-creates every event in subscribers' calendars)
     ics: { name: 'Austin Events', short: 'Austin Events', teams: 'Austin home teams — every season', prodid: '-//here.events//austin-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
