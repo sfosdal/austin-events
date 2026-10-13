@@ -1096,6 +1096,23 @@
    "time": "12:00:00",
    "url": "https://on.fgtix.com/trk/y8SK",
    "type": "concert"
+  },
+  {
+   "venue": "Emo's",
+   "title": "L7: The Last Hurrah Tour 2026",
+   "date": "2026-10-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/l7-the-last-hurrah-tour-2026-austin-texas-10-12-2026/event/3A0064A1BAC8373A",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Blue Monday with Soul Man Sam & Lindsay Beaver feat. Steve Bell",
+   "date": "2026-10-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/blue-monday-with-soul-man-sam-austin-texas-10-12-2026/event/3A006545BE4E33F0",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
