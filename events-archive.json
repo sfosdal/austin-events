@@ -1113,6 +1113,45 @@
    "url": "https://www.ticketmaster.com/blue-monday-with-soul-man-sam-austin-texas-10-12-2026/event/3A006545BE4E33F0",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Germania Insurance Amphitheater",
+   "title": "$uicideboy$ Present Grey Day Tour 2026 W. Destroy Lonely & More",
+   "date": "2026-10-13",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2026-austin-texas-10-13-2026/event/3A00647BC8B110BC",
+   "type": "concert"
+  },
+  {
+   "venue": "Stubb's",
+   "title": "Cavetown - Running With Scissors Tour",
+   "date": "2026-10-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/cavetown-running-with-scissors-tour-austin-texas-10-13-2026/event/3A006479EE7E4F7F",
+   "type": "concert"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Quadeca",
+   "date": "2026-10-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/quadeca-austin-texas-10-13-2026/event/3A0064EEB0058ECA",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Arrows in Action: I Think We've Toured Here Before ",
+   "date": "2026-10-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/arrows-in-action-i-think-weve-austin-texas-10-13-2026/event/3A0064A6CECA44F7",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Kylie Cantrall",
+   "date": "2026-10-13",
+   "time": "20:00:00",
+   "url": "http://acl-live.com/"
   }
  ]
 }
