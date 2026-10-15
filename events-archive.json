@@ -1152,6 +1152,48 @@
    "date": "2026-10-13",
    "time": "20:00:00",
    "url": "http://acl-live.com/"
+  },
+  {
+   "venue": "Emo's",
+   "title": "DJ Meredith Marks - You. Can. Dance. Tour",
+   "date": "2026-10-14",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/dj-meredith-marks-you-can-dance-austin-texas-10-14-2026/event/3A006529E4992E6D",
+   "type": "concert"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Ravyn Lenae Presents: Blue Island",
+   "date": "2026-10-14",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/ravyn-lenae-presents-blue-island-austin-texas-10-14-2026/event/3A0064C9AC35BF7E",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:13.641Z"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Sons of Legion",
+   "date": "2026-10-14",
+   "time": "20:00:00",
+   "url": "http://acl-live.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "lilyisthatyou",
+   "date": "2026-10-14",
+   "time": "20:00:00",
+   "url": "https://www.3tenaustin.com/"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Horse Jumper of Love w/ Dead Sullivan & Amelia's Best Friend",
+   "date": "2026-10-14",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/horse-jumper-of-love-w-dead-austin-texas-10-14-2026/event/3A0064DDAAD6A842",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
