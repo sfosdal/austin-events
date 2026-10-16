@@ -1194,6 +1194,68 @@
    "url": "https://www.ticketmaster.com/horse-jumper-of-love-w-dead-austin-texas-10-14-2026/event/3A0064DDAAD6A842",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Moody Amphitheater",
+   "title": "Expedited Entry & Social Club - Ziggy Marley and Gov't Mule (4-6PM) ",
+   "date": "2026-10-15",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/expedited-entry-social-club-ziggy-marley-austin-texas-10-15-2026/event/3A0064CB06DE8600"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Dying Fetus & Sanguisugabogg",
+   "date": "2026-10-15",
+   "time": "17:30:00",
+   "url": "https://www.ticketmaster.com/dying-fetus-sanguisugabogg-austin-texas-10-15-2026/event/3A006491A0EDBA8B",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Amphitheater",
+   "title": "Ziggy Marley and Gov't Mule",
+   "date": "2026-10-15",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/ziggy-marley-and-govt-mule-austin-texas-10-15-2026/event/3A0064BCC4CBD860",
+   "type": "concert"
+  },
+  {
+   "venue": "Stubb's",
+   "title": "Bright Eyes",
+   "date": "2026-10-15",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/bright-eyes-austin-texas-10-15-2026/event/3A0064C9A979BA1F",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Amphitheater",
+   "title": "Premium Seating - Ziggy Marley and Gov't Mule",
+   "date": "2026-10-15",
+   "time": "18:59:00",
+   "url": "https://www.ticketmaster.com/premium-seating-ziggy-marley-and-govt-austin-texas-10-15-2026/event/3A0064CCA0B2A55B",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Modest Mouse w/ Caroline Rose",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "http://acl-live.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "LØLØ - God Forbid a Girl Goes on Tour w/ Mylie Taylor",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/ll-god-forbid-a-girl-goes-austin-texas-10-15-2026/event/3A0064A6DE6874C6",
+   "type": "concert"
+  },
+  {
+   "venue": "The Concourse Project",
+   "title": "Funk Tribu (21 and Over)",
+   "date": "2026-10-15",
+   "time": "21:00:00",
+   "url": "https://concourseproject.com/"
   }
  ]
 }
