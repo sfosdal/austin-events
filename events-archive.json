@@ -1256,6 +1256,77 @@
    "date": "2026-10-15",
    "time": "21:00:00",
    "url": "https://concourseproject.com/"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Austin Quest for Ancient Civilizations",
+   "date": "2026-10-16",
+   "time": "18:00:00",
+   "url": "http://acl-live.com/"
+  },
+  {
+   "venue": "Bass Concert Hall",
+   "title": "Blippi: Be Like Blippi Tour",
+   "date": "2026-10-16",
+   "time": "18:00:00",
+   "url": "https://texasperformingarts.org/"
+  },
+  {
+   "venue": "Scoot Inn",
+   "title": "Deer Tick",
+   "date": "2026-10-16",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/deer-tick-austin-texas-10-16-2026/event/3A006463EEAFF085",
+   "type": "concert"
+  },
+  {
+   "venue": "Stubb's",
+   "title": "EsDeeKid - Council House Rat Tour",
+   "date": "2026-10-16",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/esdeekid-council-house-rat-tour-austin-texas-10-16-2026/event/3A0064F19AFD808A",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Amphitheater",
+   "title": "Expedited Entry & Social Club Happy Hour - Foster the People (5-7PM)",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/expedited-entry-social-club-happy-hour-austin-texas-10-16-2026/event/3A0064A4271C6CAE"
+  },
+  {
+   "venue": "Moody Amphitheater",
+   "title": "Foster The People - Good Mourning Sunshine",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/foster-the-people-good-mourning-sunshine-austin-texas-10-16-2026/event/3A00649CBDB12FBE",
+   "type": "concert"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "The Paradox",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.3tenaustin.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "KUTX Presents: Devon Gilfillian-Time Will Tell Tour w/ Jon Muq",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/kutx-presents-devon-gilfilliantime-will-tell-austin-texas-10-16-2026/event/3A0064A6EEF3A79C",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Stan Society Presents Olivia Rodrigo Night",
+   "date": "2026-10-16",
+   "time": "20:30:00",
+   "url": "https://www.ticketmaster.com/stan-society-presents-olivia-rodrigo-night-austin-texas-10-16-2026/event/3A006536A013F419",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
