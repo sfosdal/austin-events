@@ -1327,6 +1327,77 @@
    "url": "https://www.ticketmaster.com/stan-society-presents-olivia-rodrigo-night-austin-texas-10-16-2026/event/3A006536A013F419",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "DKR Stadium",
+   "title": "Texas Longhorns vs Florida Gators",
+   "date": "2026-10-17",
+   "time": "11:00:00",
+   "url": "https://texaslonghorns.com/sports/football/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ABC"
+    ],
+    "radio": [
+     "ERADM"
+    ]
+   }
+  },
+  {
+   "venue": "Stubb's",
+   "title": "Basement",
+   "date": "2026-10-17",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/basement-austin-texas-10-17-2026/event/3A0064A1C5FF6920",
+   "type": "concert"
+  },
+  {
+   "venue": "Scoot Inn",
+   "title": "Joy Oladokun: The Heavy Things Tour",
+   "date": "2026-10-17",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/joy-oladokun-the-heavy-things-tour-austin-texas-10-17-2026/event/3A0064F5B746BDBF",
+   "type": "concert"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "DJ Mel",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.3tenaustin.com/"
+  },
+  {
+   "venue": "Q2 Stadium",
+   "title": "Austin FC vs. Vancouver Whitecaps FC",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://www.q2stadium.com/events/",
+   "type": "sports"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Chelsea Wolfe: The Dark World Tour",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/chelsea-wolfe-the-dark-world-tour-austin-texas-10-17-2026/event/3A0064CFCC37D954",
+   "type": "concert"
+  },
+  {
+   "venue": "Germania Insurance Amphitheater",
+   "title": "beabadoobee: The Powerlines Tour",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/beabadoobee-the-powerlines-tour-austin-texas-10-17-2026/event/3A0064D2A02FEF11",
+   "type": "concert"
+  },
+  {
+   "venue": "The Concourse Project",
+   "title": "MGMT - Ages 18+",
+   "date": "2026-10-17",
+   "time": "21:00:00",
+   "url": "https://concourseproject.com/",
+   "type": "concert"
   }
  ]
 }
