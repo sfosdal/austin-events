@@ -1398,6 +1398,64 @@
    "time": "21:00:00",
    "url": "https://concourseproject.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Moody Amphitheater",
+   "title": "Expedited Entry & Social Club Happy Hour- Hermanos Gutiérrez (4-6PM)",
+   "date": "2026-10-18",
+   "time": "16:00:00",
+   "url": "https://www.ticketmaster.com/expedited-entry-social-club-happy-hour-austin-texas-10-18-2026/event/3A0064CB00466F96"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Dancing Away Detention: Jimmie Dale Gilmore & More",
+   "date": "2026-10-18",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/dancing-away-detention-jimmie-dale-gilmore-austin-texas-10-18-2026/event/3A006543E34E7D38",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Amphitheater",
+   "title": "Hermanos Gutierrez - Premium Seating",
+   "date": "2026-10-18",
+   "time": "18:59:00",
+   "url": "https://www.ticketmaster.com/hermanos-gutierrez-premium-seating-austin-texas-10-18-2026/event/3A0064CC9AFF95B4",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "WEEZER: The Gathering",
+   "date": "2026-10-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/weezer-the-gathering-austin-texas-10-18-2026/event/3A00646DDF7A288A",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Amphitheater",
+   "title": "Hermanos Gutiérrez",
+   "date": "2026-10-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/hermanos-gutierrez-austin-texas-10-18-2026/event/3A0064C1F0AEE3E1",
+   "type": "concert"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Rahat Fateh Ali Khan",
+   "date": "2026-10-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/rahat-fateh-ali-khan-cedar-park-texas-10-18-2026/event/3A0064AFD3ECEB76",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-15T18:01:07.293Z"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "Blessing Offor",
+   "date": "2026-10-18",
+   "time": "20:00:00",
+   "url": "https://www.3tenaustin.com/",
+   "type": "concert"
   }
  ]
 }
