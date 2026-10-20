@@ -57,10 +57,10 @@
     color-scheme: dark;
     --sky: #141a20; --mist: #1d252e; --ink: #e8edf1; --ink-soft: #9aa7b2; --ink-bright: #ffffff;
     --line: #333f4a; --gold: #f08a33; --gold-soft: #3a2a1a;
-    --v-cornish: #3ecf97; --v-cpa: #4da3f0; --v-tmobile: #8ad8e0; --v-seactr: #6a72e6;
-    --v-lumen: #8b8fe8; --v-husky: #c4a0f0; --v-siff: #b596e0; --v-vera: #a26be6; --v-otb: #e07ae0; --v-mccaw: #d158a7;
-    --v-scc: #7fa7cc; --v-sct: #6cc9db; --v-mopop: #e88ad8; --v-pacsci: #62b8f7; --v-kexp: #b48cf5; --v-goat: #5fb3a1; --v-rep: #f0827a;
-    --v-paramount: #e39a6e; --v-showbox: #e8c45a; --v-sodo: #aab8d6; --v-croc: #7ed67f;
+    --v-moody: #ea8686; --v-q2: #86eaa3; --v-dkr: #c086ea; --v-moodyamp: #eadd86; --v-acllive: #86d9ea; --v-threeten: #ea86bc;
+    --v-bass: #9fea86; --v-cota: #8a86ea; --v-germania: #eaa786; --v-heb: #86eac4; --v-dell: #e186ea; --v-zilker: #d5ea86;
+    --v-stubbs: #86b7ea; --v-emos: #ea869a; --v-mohawk: #86ea8e; --v-scoot: #ab86ea; --v-antones: #eac886; --v-catil: #86eae6;
+    --v-concourse: #ea86d0; --v-radioeast: #b3ea86; --v-whitewater: #8696ea;
     --venue-text: 100%; --tint: 13%;
     --t-concert: #f0806a; --t-sports: #f2d21b; --t-arts: #d63a4f;
     --t-movie: #8b9db0; --t-community: #e660a8; --t-expo: #4fd1c5; --t-bar: #e3ad3c; --alert: #ff4b3e;
