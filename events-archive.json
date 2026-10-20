@@ -1456,6 +1456,31 @@
    "time": "20:00:00",
    "url": "https://www.3tenaustin.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Blue Monday w/ Soul Man Sam & Brad Stivers",
+   "date": "2026-10-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/blue-monday-w-soul-man-sam-austin-texas-10-19-2026/event/3A006545BF0136BC",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Paledusk, Slow Degrade, Headwreck, Gloom.tx",
+   "date": "2026-10-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/paledusk-slow-degrade-headwreck-gloomtx-come-and-take-it-live-tickets/14998933",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Snarky Puppy",
+   "date": "2026-10-19",
+   "time": "20:00:00",
+   "url": "http://acl-live.com/",
+   "type": "concert"
   }
  ]
 }
