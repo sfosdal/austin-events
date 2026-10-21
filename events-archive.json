@@ -1481,6 +1481,30 @@
    "time": "20:00:00",
    "url": "http://acl-live.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Moody Amphitheater",
+   "title": "Mon Laferte - Femme Fatale Tour",
+   "date": "2026-10-20",
+   "time": "19:20:00",
+   "url": "https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-austin-texas-10-20-2026/event/3A00646BDEFD1B5B",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Gregg Allman",
+   "date": "2026-10-20",
+   "time": "20:00:00",
+   "url": "http://acl-live.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Bass Concert Hall",
+   "title": "The Chicks - Taking The Long Way",
+   "date": "2026-10-20",
+   "time": "20:30:00",
+   "url": "https://texasperformingarts.org/event/the-chicks-2026-bass-concert-hall-austin-texas",
+   "type": "concert"
   }
  ]
 }
