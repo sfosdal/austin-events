@@ -38,7 +38,7 @@
     // schedule is injected (the Husky Stadium pattern in lqa)
     { slug: 'longhorns', label: 'Longhorns', name: 'Texas Longhorns', abbr: 'TEX', re: /longhorns football|longhorns(?!.*basketball)/i, sport: 'football', venue: 'DKR Stadium', colors: ['#bf5700', '#ffffff'],
       espn: { sport: 'football', league: 'college-football', id: '251' }, season: { kind: 'espn' }, form: { kind: 'espn' },
-      inject: { url: 'https://texaslonghorns.com/sports/football/tickets' },
+      inject: { url: 'https://texaslonghorns.com/sports/football/schedule' },
       logo: 'https://a.espncdn.com/i/teamlogos/ncaa/500/251.png', schedule: 'https://texaslonghorns.com/sports/football/schedule',
       club: 'Texas Longhorns Football', opens: 'late August', wiki: { title: 'Texas Longhorns football', teamPage: true },
       news: [['https://texaslonghorns.com/rss?path=football', 'TexasLonghorns.com']] },
@@ -126,9 +126,9 @@
       type: 'concert',
       cssVar: '--v-moodyamp',
       color: '#eadd86',
-      url: 'https://www.moodyamphitheater.com/events',
+      url: 'https://www.moodyamphitheater.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.moodyamphitheater.com&sz=128',
-      tm: { id: 'KovZ917AJ_x', match: 'moody amphitheater', fallbackUrl: 'https://www.moodyamphitheater.com/events' },
+      tm: { id: 'KovZ917AJ_x', match: 'moody amphitheater', fallbackUrl: 'https://www.moodyamphitheater.com/' },
       alias: /moody amphitheat|waterloo park/i,
     },
     'ACL Live': {
@@ -156,9 +156,9 @@
       type: 'arts',
       cssVar: '--v-bass',
       color: '#9fea86',
-      url: 'https://texasperformingarts.org/season',
+      url: 'https://texasperformingarts.org/events/',
       icon: 'https://www.google.com/s2/favicons?domain=texasperformingarts.org&sz=128',
-      tm: { id: 'KovZpZAJJ7AA', match: 'bass concert hall', fallbackUrl: 'https://texasperformingarts.org/season' },
+      tm: { id: 'KovZpZAJJ7AA', match: 'bass concert hall', fallbackUrl: 'https://texasperformingarts.org/events/' },
       alias: /bass concert hall/i,
     },
     'Circuit of the Americas': {
