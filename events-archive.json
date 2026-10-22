@@ -1505,6 +1505,46 @@
    "time": "20:30:00",
    "url": "https://texasperformingarts.org/event/the-chicks-2026-bass-concert-hall-austin-texas",
    "type": "concert"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Marilyn Manson - 2 Day Ticket (10/21/26 + 10/22/26)",
+   "date": "2026-10-21",
+   "time": "",
+   "url": "https://www.ticketmaster.com/marilyn-manson-2-day-ticket-102126-austin-texas-10-21-2026/event/3A0064ED8E754D7B",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Leonid and Friends",
+   "date": "2026-10-21",
+   "time": "19:30:00",
+   "url": "https://www.buddyhollyhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Bass Concert Hall",
+   "title": "Waitress (Touring)",
+   "date": "2026-10-21",
+   "time": "19:30:00",
+   "url": "https://texasperformingarts.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Marilyn Manson",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/marilyn-manson-austin-texas-10-21-2026/event/3A0064ED8C38495C",
+   "type": "concert"
+  },
+  {
+   "venue": "Mohawk",
+   "title": "Ax and the Hatchetmen",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://mohawkaustin.com/",
+   "type": "concert"
   }
  ]
 }
