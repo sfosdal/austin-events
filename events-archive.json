@@ -1545,6 +1545,63 @@
    "time": "20:00:00",
    "url": "https://mohawkaustin.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Circuit of the Americas",
+   "title": "2026 Formula 1 USGP - Grand PrixView Thursday",
+   "date": "2026-10-22",
+   "time": "11:30:00",
+   "url": "https://www.ticketmaster.com/2026-formula-1-usgp-grand-prixview-austin-texas-10-22-2026/event/3A0064ADA0799FBD",
+   "type": "sports"
+  },
+  {
+   "venue": "Stubb's",
+   "title": "Vince Staples - Cry Baby Tour",
+   "date": "2026-10-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/vince-staples-cry-baby-tour-austin-texas-10-22-2026/event/3A0064CA079B7D84",
+   "type": "concert"
+  },
+  {
+   "venue": "Bass Concert Hall",
+   "title": "Waitress (Touring)",
+   "date": "2026-10-22",
+   "time": "19:30:00",
+   "url": "https://texasperformingarts.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "Katie Pruitt",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.3tenaustin.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Marilyn Manson",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/marilyn-manson-austin-texas-10-22-2026/event/3A0064ED8C8749CB",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "The Jungle Giants w/ Morning Silk",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-jungle-giants-w-morning-silk-austin-texas-10-22-2026/event/3A0064AF0B1A8172",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "The Concourse Project",
+   "title": "Ben Bohmer - ages 21+",
+   "date": "2026-10-22",
+   "time": "21:00:00",
+   "url": "https://concourseproject.com/",
+   "type": "concert"
   }
  ]
 }
