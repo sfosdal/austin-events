@@ -1602,6 +1602,86 @@
    "time": "21:00:00",
    "url": "https://concourseproject.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Circuit of the Americas",
+   "title": "2026 Formula 1 MSC Cruises Usgp - Friday Admission",
+   "date": "2026-10-23",
+   "time": "08:00:00",
+   "url": "https://www.ticketmaster.com/2026-formula-1-msc-cruises-usgp-austin-texas-10-23-2026/event/3A00642D96CF56D7",
+   "type": "sports"
+  },
+  {
+   "venue": "Circuit of the Americas",
+   "title": "2026 Formula 1 MSC Cruises United States Grand Prix - Weekend Pass",
+   "date": "2026-10-23",
+   "time": "09:00:00",
+   "url": "https://am.ticketmaster.com/cota/buy/quickbuy?id=Mzg1",
+   "type": "sports"
+  },
+  {
+   "venue": "Scoot Inn",
+   "title": "MICO: Running From A Feeling Tour",
+   "date": "2026-10-23",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/mico-running-from-a-feeling-tour-austin-texas-10-23-2026/event/3A0064ACBB5CC7DF",
+   "type": "concert"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Texas Stars vs Ontario Reign",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/texas-stars-vs-ontario-reign-cedar-park-texas-10-23-2026/event/3A006513D2A91B66",
+   "type": "sports"
+  },
+  {
+   "venue": "Stubb's",
+   "title": "Cameron Whitcomb - Kingdom of Fear Tour",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/cameron-whitcomb-kingdom-of-fear-tour-austin-texas-10-23-2026/event/3A0064A69F7BC028",
+   "type": "concert"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Glaive - God Save The Three Tour",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/glaive-god-save-the-three-tour-austin-texas-10-23-2026/event/3A0064A6A1E3C66F",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Shyne",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "http://acl-live.com/"
+  },
+  {
+   "venue": "Bass Concert Hall",
+   "title": "Waitress (Touring)",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://texasperformingarts.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "San Antonio Spurs v Houston Rockets",
+   "date": "2026-10-23",
+   "time": "20:30:00",
+   "url": "https://www.ticketmaster.com/san-antonio-spurs-v-houston-rockets-austin-texas-10-23-2026/event/3A00650AB0108785",
+   "type": "sports"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Dusty Miller and the Spurflowers w/ Texas Rebels & Adam Walker",
+   "date": "2026-10-23",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/dusty-miller-and-the-spurflowers-w-austin-texas-10-23-2026/event/3A006543E9F594BE",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
