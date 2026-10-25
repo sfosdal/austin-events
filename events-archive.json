@@ -1682,6 +1682,74 @@
    "url": "https://www.ticketmaster.com/dusty-miller-and-the-spurflowers-w-austin-texas-10-23-2026/event/3A006543E9F594BE",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Circuit of the Americas",
+   "title": "2026 Formula 1 MSC Cruises Usgp - Saturday Admission",
+   "date": "2026-10-24",
+   "time": "08:00:00",
+   "url": "https://www.ticketmaster.com/2026-formula-1-msc-cruises-usgp-austin-texas-10-24-2026/event/3A00642D96C856BF",
+   "type": "sports"
+  },
+  {
+   "venue": "Scoot Inn",
+   "title": "Dax - The Anger Management Tour",
+   "date": "2026-10-24",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/dax-the-anger-management-tour-austin-texas-10-24-2026/event/3A0064AC065B7623",
+   "type": "concert"
+  },
+  {
+   "venue": "DKR Stadium",
+   "title": "Texas Longhorns vs Ole Miss Rebels",
+   "date": "2026-10-24",
+   "time": "18:30:00",
+   "url": "https://texaslonghorns.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ABC"
+    ]
+   }
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Texas Stars vs Ontario Reign",
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/texas-stars-vs-ontario-reign-cedar-park-texas-10-24-2026/event/3A006513D2D31BE6",
+   "type": "sports"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Culture Wars",
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/culture-wars-austin-texas-10-24-2026/event/3A0064829B18E66A",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "DREAMS - A Tribute to Fleetwood Mac",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/dreams-a-tribute-to-fleetwood-mac-austin-texas-10-24-2026/event/3A006538C4E4110B",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "The Red Flags Podcast",
+   "date": "2026-10-24",
+   "time": "21:00:00",
+   "url": "http://acl-live.com/"
+  },
+  {
+   "venue": "The Concourse Project",
+   "title": "Ian Asher",
+   "date": "2026-10-24",
+   "time": "21:00:00",
+   "url": "https://concourseproject.com/"
   }
  ]
 }
