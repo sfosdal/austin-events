@@ -365,10 +365,10 @@
   // The words the page uses for the place
   var WORDS = {
     teamCity: 'Austin', // the board drops it from the clubs' names ("Austin FC" stays — it has no nickname)
-    presetDefault: 'Every room — the stadiums, Moody Center, the campus halls, the Red River clubs and the amphitheatres out of town — every team and type',
+    presetDefault: 'Every venue — the stadiums, Moody Center, the campus halls, the Red River clubs and the amphitheatres out of town — every team and type',
     presetNeighborhood: 'Downtown, the campus and the stadiums only',
     presetBig: 'Only the places that hold 2,000 or more — the stadiums, the arenas and the amphitheatres',
-    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing downtown, the campus and the stadiums only.', big: 'Showing the big rooms only — the stadiums, the arenas and the amphitheatres.' },
+    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing downtown, the campus and the stadiums only.', big: 'Showing the big venues only — the stadiums, the arenas and the amphitheatres.' },
   };
 
   global.LQACity = {
