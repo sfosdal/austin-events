@@ -92,6 +92,7 @@
   var VENUES = {
     // --- Downtown, the campus and the stadiums ---
     'Moody Center': {
+      geo: [30.28073, -97.73084],
       capacity: 15000,
       type: 'concert',
       cssVar: '--v-moody',
@@ -102,6 +103,7 @@
       alias: /^moody center/i,
     },
     'Q2 Stadium': {
+      geo: [30.38629, -97.71877],
       capacity: 20738,
       type: 'sports',
       cssVar: '--v-q2',
@@ -112,6 +114,7 @@
       alias: /q2 stadium/i,
     },
     'DKR Stadium': {
+      geo: [30.2837, -97.73405],
       capacity: 100119,
       type: 'sports',
       cssVar: '--v-dkr',
@@ -122,6 +125,7 @@
       alias: /darrell k\.? royal|dkr|texas memorial stadium/i,
     },
     'Moody Amphitheater': {
+      geo: [30.27218, -97.73486],
       capacity: 5000,
       type: 'concert',
       cssVar: '--v-moodyamp',
@@ -132,6 +136,7 @@
       alias: /moody amphitheat|waterloo park/i,
     },
     'ACL Live': {
+      geo: [30.26537, -97.74712],
       capacity: 2750,
       type: 'concert',
       cssVar: '--v-acllive',
@@ -142,6 +147,7 @@
       alias: /acl live at the moody|moody theater/i,
     },
     '3TEN ACL Live': {
+      geo: [30.26575, -97.74708],
       capacity: 350,
       type: 'concert',
       cssVar: '--v-threeten',
@@ -152,6 +158,7 @@
       alias: /3ten/i,
     },
     'Bass Concert Hall': {
+      geo: [30.2851, -97.7307],
       capacity: 2900,
       type: 'arts',
       cssVar: '--v-bass',
@@ -162,6 +169,7 @@
       alias: /bass concert hall/i,
     },
     'Circuit of the Americas': {
+      geo: [30.13527, -97.63566],
       capacity: 120000,
       type: 'sports',
       cssVar: '--v-cota',
@@ -172,6 +180,7 @@
       alias: /circuit of the americas|\bcota\b/i,
     },
     'Germania Insurance Amphitheater': {
+      geo: [30.13538, -97.63801],
       capacity: 14000,
       type: 'concert',
       cssVar: '--v-germania',
@@ -182,6 +191,7 @@
       alias: /germania/i,
     },
     'H-E-B Center': {
+      geo: [30.54174, -97.81978],
       capacity: 8700,
       type: 'sports',
       cssVar: '--v-heb',
@@ -192,6 +202,7 @@
       alias: /h-?e-?b center/i,
     },
     'Dell Diamond': {
+      geo: [30.52744, -97.63094],
       capacity: 11631,
       type: 'sports',
       cssVar: '--v-dell',
@@ -202,6 +213,7 @@
       alias: /dell diamond/i,
     },
     'Zilker Park': {
+      geo: [30.24567, -97.76884],
       capacity: 75000,
       type: 'community',
       cssVar: '--v-zilker',
@@ -213,6 +225,7 @@
     },
     // --- Music rooms and the towns around (`area: 'town'`): Red River, the East Side, Cedar Park's clubs and New Braunfels ---
     "Stubb's": {
+      geo: [30.26849, -97.73619],
       area: 'town',
       capacity: 2200,
       type: 'concert',
@@ -224,6 +237,7 @@
       alias: /stubb'?s/i,
     },
     "Emo's": {
+      geo: [30.23957, -97.72805],
       area: 'town',
       capacity: 1700,
       type: 'concert',
@@ -235,6 +249,7 @@
       alias: /emo'?s/i,
     },
     'Mohawk': {
+      geo: [30.27015, -97.73604],
       area: 'town',
       capacity: 900,
       type: 'concert',
@@ -246,6 +261,7 @@
       alias: /mohawk/i,
     },
     'Scoot Inn': {
+      geo: [30.26213, -97.7294],
       area: 'town',
       capacity: 1000,
       type: 'concert',
@@ -257,6 +273,7 @@
       alias: /scoot inn/i,
     },
     "Antone's": {
+      geo: [30.26605, -97.7404],
       area: 'town',
       capacity: 500,
       type: 'concert',
@@ -268,6 +285,7 @@
       alias: /antone'?s/i,
     },
     'Come and Take It Live': {
+      geo: [30.24106, -97.7288],
       area: 'town',
       capacity: 800,
       type: 'concert',
@@ -279,6 +297,7 @@
       alias: /come and take it/i,
     },
     'The Concourse Project': {
+      geo: [30.18083, -97.68644],
       area: 'town',
       capacity: 3000,
       type: 'concert',
@@ -290,6 +309,7 @@
       alias: /concourse project/i,
     },
     'Radio/East': {
+      geo: [30.20794, -97.71552],
       area: 'town',
       capacity: 1500,
       type: 'concert',
@@ -301,6 +321,7 @@
       alias: /radio\s*\/?\s*east/i,
     },
     'Whitewater Amphitheater': {
+      geo: [29.86201, -98.15697],
       area: 'town',
       capacity: 5000,
       type: 'concert',
@@ -362,6 +383,18 @@
     ics: { name: 'Austin Events', short: 'Austin Events', teams: 'Austin home teams — every season', prodid: '-//here.events//austin-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
       desc: 'Upcoming events around Austin\\, TX — Moody Center\\, Q2 Stadium\\, DKR\\, ACL Live\\, the Red River clubs and the amphitheatres' },
     teams: TEAMS,
+    map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
+      kind: 'urban',
+      bbox: [29.76, -98.236, 30.644, -97.552], // south, west, north, east — every room, with a margin
+      home: [30.073, -97.802, 30.449, -97.602], // the view at first: the city's own rooms; the fit button shows the whole frame
+      roads: ['motorway', 'trunk', 'primary'],
+      tolerance: 0.8,
+      labels: [
+        { name: 'Austin', lat: 30.267, lon: -97.743, anchor: 'middle' },
+        { name: 'Cedar Park', lat: 30.52171, lon: -97.82783, anchor: 'middle' },
+        { name: 'Round Rock', lat: 30.50859, lon: -97.67881, anchor: 'middle' },
+      ],
+    },
     venues: VENUES,
     defaultOn: DEFAULT_ON,
     defaultOff: DEFAULT_OFF,
