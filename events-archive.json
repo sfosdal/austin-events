@@ -1750,6 +1750,54 @@
    "date": "2026-10-24",
    "time": "21:00:00",
    "url": "https://concourseproject.com/"
+  },
+  {
+   "venue": "Circuit of the Americas",
+   "title": "2026 Formula 1 MSC Cruises Usgp - Sunday Admission",
+   "date": "2026-10-25",
+   "time": "08:00:00",
+   "url": "https://www.ticketmaster.com/2026-formula-1-msc-cruises-usgp-austin-texas-10-25-2026/event/3A00642D96C356B5",
+   "type": "sports"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Nyle Maxwell's Lonestar Showcase: Utwbb vs Ucla",
+   "date": "2026-10-25",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/nyle-maxwells-lonestar-showcase-utwbb-vs-cedar-park-texas-10-25-2026/event/3A006514F4D49F11",
+   "type": "sports"
+  },
+  {
+   "venue": "Scoot Inn",
+   "title": "25th Anniversary of musicforthemorning after - Pete Yorn solo acoustic",
+   "date": "2026-10-25",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/25th-anniversary-of-musicforthemorning-after-pete-austin-texas-10-25-2026/event/3A0064D0B0389C5C",
+   "type": "concert"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Mom Jeans",
+   "date": "2026-10-25",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/mom-jeans-austin-texas-10-25-2026/event/3A0064A58E8B7BFE",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Brincos Dieras",
+   "date": "2026-10-25",
+   "time": "20:00:00",
+   "url": "http://acl-live.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Concourse Project",
+   "title": "Zhu",
+   "date": "2026-10-25",
+   "time": "21:00:00",
+   "url": "https://concourseproject.com/",
+   "type": "concert"
   }
  ]
 }
