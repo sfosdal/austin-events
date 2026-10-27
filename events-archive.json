@@ -1798,6 +1798,47 @@
    "time": "21:00:00",
    "url": "https://concourseproject.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Scoot Inn",
+   "title": "EMEI - Night at the Opera Tour",
+   "date": "2026-10-26",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/emei-night-at-the-opera-tour-austin-texas-10-26-2026/event/3A006495E395E002",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Daniel Sloss: BITTER  (Brand New Tour!)",
+   "date": "2026-10-26",
+   "time": "19:00:00",
+   "url": "https://www.axs.com/events/1324669/daniel-sloss-tickets",
+   "type": "arts"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Blue Monday w/ Blue Mist Band",
+   "date": "2026-10-26",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/blue-monday-w-blue-mist-band-austin-texas-10-26-2026/event/3A006549C5607D07",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Dave Chappelle Karmageddon",
+   "date": "2026-10-26",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/dave-chappelle-karmageddon-austin-texas-10-26-2026/event/3A00652A298CE85F",
+   "type": "arts"
+  },
+  {
+   "venue": "Mohawk",
+   "title": "Hovvdy w/ Emma Ogier",
+   "date": "2026-10-26",
+   "time": "19:30:00",
+   "url": "https://mohawkaustin.com/",
+   "type": "concert"
   }
  ]
 }
