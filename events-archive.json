@@ -1839,6 +1839,22 @@
    "time": "19:30:00",
    "url": "https://mohawkaustin.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Dave Chappelle Karmageddon",
+   "date": "2026-10-27",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/dave-chappelle-karmageddon-austin-texas-10-27-2026/event/3A00652A2C2CEF0A",
+   "type": "arts"
+  },
+  {
+   "venue": "Bass Concert Hall",
+   "title": "A. R. Rahman",
+   "date": "2026-10-27",
+   "time": "19:30:00",
+   "url": "https://texasperformingarts.org/",
+   "type": "concert"
   }
  ]
 }
