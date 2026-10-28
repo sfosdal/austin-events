@@ -318,7 +318,7 @@
       url: 'https://concourseproject.com/',
       icon: 'https://www.google.com/s2/favicons?domain=concourseproject.com&sz=128',
       tm: { secondary: true, id: 'KovZ917AYuG', match: 'concourse', fallbackUrl: 'https://concourseproject.com/' },
-      feed: { kind: 'cards', url: 'https://concourseproject.com/', venues: /concourse/i, item: /<div class="seetickets-list-view-event-image-container">/, title: /<p class="fs-18 bold mb-12 event-title"><a href="([^"]+)"\s*>(.*?)(?: at (?:The )?Concourse[^<]*)?<\/a>/, when: /event-date">([^<]+)<[\s\S]*?see-showtime\s*">([^<]*)</, place: /<p class="fs-12 venue">at ([^<]+)</, type: 'concert' }, // the club's own SeeTickets list on its home page ("Thu Oct 29", "9:00PM") — leads, Ticketmaster lists a fraction; its edge refuses curl but answers Node (2026-10-27)
+      feed: { kind: 'cards', chrome: true, url: 'https://concourseproject.com/', venues: /concourse/i, item: /<div class="seetickets-list-view-event-image-container">/, title: /<p class="fs-18 bold mb-12 event-title"><a href="([^"]+)"\s*>(.*?)(?: at (?:The )?Concourse[^<]*)?<\/a>/, when: /event-date">([^<]+)<[\s\S]*?see-showtime\s*">([^<]*)</, place: /<p class="fs-12 venue">at ([^<]+)</, type: 'concert' }, // the club's own SeeTickets list on its home page ("Thu Oct 29", "9:00PM") — leads, Ticketmaster lists a fraction; its edge refuses curl but answers Node (2026-10-27)
       alias: /concourse project/i,
     },
     'Radio/East': {
