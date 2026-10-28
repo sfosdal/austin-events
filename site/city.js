@@ -100,6 +100,7 @@
       url: 'https://www.moodycenteratx.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.moodycenteratx.com&sz=128',
       tm: { id: 'KovZ917ANwG', match: 'moody center', fallbackUrl: 'https://www.moodycenteratx.com/events', exclude: /parking|tour/i },
+      feed: { kind: 'tribe', secondary: true, url: 'https://moodycenteratx.com/wp-json/tribe/events/v1/events', drop: /parking|\btours?\b/i }, // the arena's own calendar (The Events Calendar), filling what Ticketmaster lacks (2026-10-27)
       alias: /^moody center/i,
     },
     'Q2 Stadium': {
@@ -111,6 +112,7 @@
       url: 'https://www.q2stadium.com/events/',
       icon: 'https://www.google.com/s2/favicons?domain=www.q2stadium.com&sz=128',
       tm: { id: 'KovZ917AJ9n', match: 'q2 stadium', fallbackUrl: 'https://www.q2stadium.com/events/', exclude: /parking/i },
+      feed: { kind: 'cards', secondary: true, url: 'https://www.q2stadium.com/events/', item: /<div class="event-column">/, title: /<h3\s+class="heading-6 book"><a href="([^"]+)">([^<]+)</, when: /<div\s+class="event-date">([^<]+)</ }, // the stadium's own Up Next list ("October 28, 2026 · 7:30 pm"), secondary behind Ticketmaster (2026-10-27)
       alias: /q2 stadium/i,
     },
     'DKR Stadium': {
@@ -133,6 +135,7 @@
       url: 'https://www.moodyamphitheater.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.moodyamphitheater.com&sz=128',
       tm: { id: 'KovZ917AJ_x', match: 'moody amphitheater', fallbackUrl: 'https://www.moodyamphitheater.com/' },
+      feed: { kind: 'cards', secondary: true, url: 'https://www.moodyamphitheater.com/events-tickets', item: /<div role="listitem" class="collection-item w-dyn-item">/, title: /<a href="(\/events\/[^"]+)"[\s\S]*?<div class="event-headliner">([^<]+)</, when: /date-month">([^<]+)<\/div><div class="date-day">([^<]+)</ }, // the amphitheater's Webflow list: headliner and "Nov 5" only — its clock is the doors time, which kept a show two hours later on Ticketmaster from folding, so the date alone; secondary (2026-10-27)
       alias: /moody amphitheat|waterloo park/i,
     },
     'ACL Live': {
@@ -144,6 +147,7 @@
       url: 'https://acl-live.com/calendar',
       icon: 'https://www.google.com/s2/favicons?domain=acl-live.com&sz=128',
       tm: { id: 'KovZpZAJJlvA', match: 'moody theater', fallbackUrl: 'https://acl-live.com/calendar' },
+      feed: { kind: 'cards', secondary: true, url: 'https://www.acllive.com/events/all', venues: /moody theater/i, item: /<div class="eventItem entry /, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /<a href="\/event\/(\d{4}-\d{2}-\d{2})-[a-z0-9-]*?(?:-at-(\d{1,2})-([ap]m))?"/, place: /<div class="location">\s*([^<]+?)\s*</ }, // acllive.com's whole listing (both halls, this hall's cards kept): the date and an on-the-hour clock from the event slug, secondary (2026-10-27)
       alias: /acl live at the moody|moody theater/i,
     },
     '3TEN ACL Live': {
@@ -155,6 +159,7 @@
       url: 'https://acl-live.com/calendar',
       icon: 'https://www.google.com/s2/favicons?domain=acl-live.com&sz=128',
       tm: { id: 'KovZ917AxfF', match: '3ten', fallbackUrl: 'https://acl-live.com/calendar' },
+      feed: { kind: 'cards', secondary: true, url: 'https://www.acllive.com/events/all', venues: /3ten/i, item: /<div class="eventItem entry /, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /<a href="\/event\/(\d{4}-\d{2}-\d{2})-[a-z0-9-]*?(?:-at-(\d{1,2})-([ap]m))?"/, place: /<div class="location">\s*([^<]+?)\s*</ }, // the same acllive.com listing, 3TEN's cards (2026-10-27)
       alias: /3ten/i,
     },
     'Bass Concert Hall': {
@@ -177,6 +182,7 @@
       url: 'https://circuitoftheamericas.com/events/',
       icon: 'https://www.google.com/s2/favicons?domain=circuitoftheamericas.com&sz=128',
       tm: { id: 'KovZpZAJEF1A', match: 'circuit of the americas', fallbackUrl: 'https://circuitoftheamericas.com/events/', exclude: /parking|camping|shuttle/i },
+      feed: { kind: 'cards', secondary: true, url: 'https://circuitoftheamericas.com/events/', item: /<div class="event-single"/, title: /<a href="([^"]+)"[^>]*>[\s\S]*?<h3>([^<]+)<\/h3>/, when: /<div class="event-detail">\s*<span>([^<]+)<\/span>/, drop: /parking|camping|shuttle|nascar|formula e/i }, // the track's own events list ("April 23-25, 2027" = a row per day, no clocks), secondary; the NASCAR and Formula E weekends are Ticketmaster's per-day rows (2026-10-27)
       alias: /circuit of the americas|\bcota\b/i,
     },
     'Germania Insurance Amphitheater': {
@@ -199,6 +205,7 @@
       url: 'https://www.hebcenter.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.hebcenter.com&sz=128',
       tm: { id: 'KovZpZAJJn6A', match: 'h-e-b center', fallbackUrl: 'https://www.hebcenter.com/events', exclude: /parking/i },
+      feed: { kind: 'cards', secondary: true, url: 'https://www.hebcenter.com/events/all', item: /<div class="m-eventItem /, title: /<h3 class="m-eventItem__title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+?)\s*</, when: /m-date__month">([^<]+)<\/span><span class="m-date__day">([^<]+)<[\s\S]*?(?:m-eventItem__start">([^<]*)<|m-eventItem__buttons btn-group)/, drop: /parking/i }, // the arena's Carbonhouse list ("Oct 31", "7:07 PM"; no year printed), secondary (2026-10-27)
       alias: /h-?e-?b center/i,
     },
     'Dell Diamond': {
@@ -221,6 +228,7 @@
       url: 'https://www.aclfestival.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.aclfestival.com&sz=128',
       tm: { id: 'KovZpZAEkItA', match: 'zilker', fallbackUrl: 'https://www.aclfestival.com/' },
+      feed: { kind: 'jsonld', secondary: true, url: 'https://www.aclfestival.com/' }, // the festival's own page marks the next ACL Fest up as one schema.org Event (its first day; the lineup year comes when they publish it), secondary (2026-10-27)
       alias: /zilker/i,
     },
     // --- Music rooms and the towns around (`area: 'town'`): Red River, the East Side, Cedar Park's clubs and New Braunfels ---
@@ -246,6 +254,7 @@
       url: 'https://www.emosaustin.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.emosaustin.com&sz=128',
       tm: { id: 'KovZpZAEAEeA', match: "emo's", fallbackUrl: 'https://www.emosaustin.com/' },
+      feed: { kind: 'jsonld', secondary: true, url: 'https://www.emosaustin.com/', at: /emo's/i, drop: /\d[- ]day (?:ticket|pass)/i }, // the club's own page (Live Nation) marks each show up as a MusicEvent, secondary (2026-10-27)
       alias: /emo'?s/i,
     },
     'Mohawk': {
@@ -270,6 +279,7 @@
       url: 'https://scootinnaustin.com/',
       icon: 'https://www.google.com/s2/favicons?domain=scootinnaustin.com&sz=128',
       tm: { id: 'KovZpZAE6kIA', match: 'scoot inn', fallbackUrl: 'https://scootinnaustin.com/' },
+      feed: { kind: 'jsonld', secondary: true, url: 'https://www.scootinnaustin.com/', at: /scoot inn/i }, // the same Live Nation page shape as Emo's, secondary (2026-10-27)
       alias: /scoot inn/i,
     },
     "Antone's": {
@@ -282,6 +292,7 @@
       url: 'https://antonesnightclub.com/',
       icon: 'https://www.google.com/s2/favicons?domain=antonesnightclub.com&sz=128',
       tm: { id: 'KovZpZAtv1nA', match: 'antone', fallbackUrl: 'https://antonesnightclub.com/' },
+      feed: { kind: 'cards', secondary: true, url: 'https://antonesnightclub.com/', item: /<div class="tw-event-item">/, title: /<div class="tw-name">\s*<a href="([^"]+)">([^<]+)</, when: /tw-event-date">([^<]+)<[\s\S]*?tw-event-time">([^<]+)</ }, // the club's own upcoming list on its home page ("October 28, 2026", "8:00pm"), secondary (2026-10-27)
       alias: /antone'?s/i,
     },
     'Come and Take It Live': {
@@ -293,7 +304,8 @@
       color: '#86eae6',
       url: 'https://www.comeandtakeitlive.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.comeandtakeitlive.com&sz=128',
-      tm: { id: 'KovZ917AmbH', match: 'come and take it', fallbackUrl: 'https://www.comeandtakeitlive.com/' },
+      tm: { secondary: true, id: 'KovZ917AmbH', match: 'come and take it', fallbackUrl: 'https://www.comeandtakeitlive.com/' },
+      feed: { kind: 'cards', url: 'https://comeandtakeitproductions.com/calendar/', venues: /come-and-take-it-live/, item: /<div class = "col-12 eventWrapper rhpSingleEvent/, title: /<a id = "eventTitle" class="url" href="([^"]+)"[^>]*>\s*<h2[^>]*>\s*([^<]+?)\s*<\/h2>/, when: /singleEventDate text-uppercase\s*">\s*([^<]+?)\s*<[\s\S]*?rhp-event__time-text--list">\s*(?:Doors:[^<\/]*\/\/\s*)?(?:Show:\s*)?([^<]+?)\s*</, place: /id = "eventTitle" class="url" href="[^"]*\/event\/[^"\/]+\/([^"\/]+)\//, type: 'concert' }, // the promoter's calendar (comeandtakeitproductions.com, Etix): every show at the club by its venue slug, "Wed, Oct 28" + the Show clock — leads, Ticketmaster lists a fraction (2026-10-27)
       alias: /come and take it/i,
     },
     'The Concourse Project': {
@@ -305,7 +317,8 @@
       color: '#ea86d0',
       url: 'https://concourseproject.com/',
       icon: 'https://www.google.com/s2/favicons?domain=concourseproject.com&sz=128',
-      tm: { id: 'KovZ917AYuG', match: 'concourse', fallbackUrl: 'https://concourseproject.com/' },
+      tm: { secondary: true, id: 'KovZ917AYuG', match: 'concourse', fallbackUrl: 'https://concourseproject.com/' },
+      feed: { kind: 'cards', url: 'https://concourseproject.com/', venues: /concourse/i, item: /<div class="seetickets-list-view-event-image-container">/, title: /<p class="fs-18 bold mb-12 event-title"><a href="([^"]+)"\s*>(.*?)(?: at (?:The )?Concourse[^<]*)?<\/a>/, when: /event-date">([^<]+)<[\s\S]*?see-showtime\s*">([^<]*)</, place: /<p class="fs-12 venue">at ([^<]+)</, type: 'concert' }, // the club's own SeeTickets list on its home page ("Thu Oct 29", "9:00PM") — leads, Ticketmaster lists a fraction; its edge refuses curl but answers Node (2026-10-27)
       alias: /concourse project/i,
     },
     'Radio/East': {
