@@ -1091,6 +1091,14 @@
   },
   {
    "venue": "Zilker Park",
+   "title": "Austin City Limits Music Festival",
+   "date": "2026-10-02",
+   "time": "",
+   "url": "",
+   "type": "community"
+  },
+  {
+   "venue": "Zilker Park",
    "title": "Austin City Limits Music Festival - Weekend Two",
    "date": "2026-10-11",
    "time": "12:00:00",
@@ -1854,6 +1862,53 @@
    "date": "2026-10-27",
    "time": "19:30:00",
    "url": "https://texasperformingarts.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Scoot Inn",
+   "title": "almost monday - Thank God It's Almost Monday",
+   "date": "2026-10-28",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/almost-monday-thank-god-its-almost-austin-texas-10-28-2026/event/3A0064D2CA0722FF",
+   "type": "concert"
+  },
+  {
+   "venue": "Bass Concert Hall",
+   "title": "A Live Conversation with David Arquette - Scream",
+   "date": "2026-10-28",
+   "time": "19:00:00",
+   "url": "https://texasperformingarts.org/"
+  },
+  {
+   "venue": "Q2 Stadium",
+   "title": "Austin FC vs. Real Salt Lake",
+   "date": "2026-10-28",
+   "time": "19:30:00",
+   "url": "https://www.q2stadium.com/events/",
+   "type": "sports"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "The Goonies 40th Anniversary Screening + Q&A",
+   "date": "2026-10-28",
+   "time": "20:00:00",
+   "url": "http://acl-live.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Chasing Abbey w/ Killer Kaya",
+   "date": "2026-10-28",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/chasing-abbey-w-killer-kaya-austin-texas-10-28-2026/event/3A0064662624D748",
+   "type": "concert"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Fabio Frizzi: Frizzi 2 Fulci – The Concert",
+   "date": "2026-10-28",
+   "time": "20:30",
+   "url": "https://comeandtakeitproductions.com/event/fabio-frizzi-frizzi-2-fulci-the-concert/come-and-take-it-live/",
    "type": "concert"
   }
  ]
