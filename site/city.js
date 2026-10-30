@@ -147,7 +147,7 @@
       url: 'https://acl-live.com/calendar',
       icon: 'https://www.google.com/s2/favicons?domain=acl-live.com&sz=128',
       tm: { id: 'KovZpZAJJlvA', match: 'moody theater', fallbackUrl: 'https://acl-live.com/calendar' },
-      feed: { kind: 'cards', secondary: true, url: 'https://www.acllive.com/events/all', venues: /moody theater/i, item: /<div class="eventItem entry /, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /<a href="\/event\/(\d{4}-\d{2}-\d{2})-[a-z0-9-]*?(?:-at-(\d{1,2})-([ap]m))?"/, place: /<div class="location">\s*([^<]+?)\s*</ }, // acllive.com's whole listing (both halls, this hall's cards kept): the date and an on-the-hour clock from the event slug, secondary (2026-10-27)
+      feed: { kind: 'cards', secondary: true, url: 'https://www.acllive.com/events/all', chrome: true, venues: /moody theater/i, item: /<div class="eventItem entry /, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /<a href="\/event\/(\d{4}-\d{2}-\d{2})-[a-z0-9-]*?(?:-at-(\d{1,2})-([ap]m))?"/, place: /<div class="location">\s*([^<]+?)\s*</ }, // acllive.com's whole listing (both halls, this hall's cards kept): the date and an on-the-hour clock from the event slug, secondary (2026-10-27)
       alias: /acl live at the moody|moody theater/i,
     },
     '3TEN ACL Live': {
@@ -159,7 +159,7 @@
       url: 'https://acl-live.com/calendar',
       icon: 'https://www.google.com/s2/favicons?domain=acl-live.com&sz=128',
       tm: { id: 'KovZ917AxfF', match: '3ten', fallbackUrl: 'https://acl-live.com/calendar' },
-      feed: { kind: 'cards', secondary: true, url: 'https://www.acllive.com/events/all', venues: /3ten/i, item: /<div class="eventItem entry /, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /<a href="\/event\/(\d{4}-\d{2}-\d{2})-[a-z0-9-]*?(?:-at-(\d{1,2})-([ap]m))?"/, place: /<div class="location">\s*([^<]+?)\s*</ }, // the same acllive.com listing, 3TEN's cards (2026-10-27)
+      feed: { kind: 'cards', secondary: true, url: 'https://www.acllive.com/events/all', chrome: true, venues: /3ten/i, item: /<div class="eventItem entry /, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /<a href="\/event\/(\d{4}-\d{2}-\d{2})-[a-z0-9-]*?(?:-at-(\d{1,2})-([ap]m))?"/, place: /<div class="location">\s*([^<]+?)\s*</ }, // the same acllive.com listing, 3TEN's cards (2026-10-27)
       alias: /3ten/i,
     },
     'Bass Concert Hall': {
@@ -205,7 +205,7 @@
       url: 'https://www.hebcenter.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.hebcenter.com&sz=128',
       tm: { id: 'KovZpZAJJn6A', match: 'h-e-b center', fallbackUrl: 'https://www.hebcenter.com/events', exclude: /parking/i },
-      feed: { kind: 'cards', secondary: true, url: 'https://www.hebcenter.com/events/all', item: /<div class="m-eventItem /, title: /<h3 class="m-eventItem__title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+?)\s*</, when: /m-date__month">([^<]+)<\/span><span class="m-date__day">([^<]+)<[\s\S]*?(?:m-eventItem__start">([^<]*)<|m-eventItem__buttons btn-group)/, drop: /parking/i }, // the arena's Carbonhouse list ("Oct 31", "7:07 PM"; no year printed), secondary (2026-10-27)
+      feed: { kind: 'cards', secondary: true, url: 'https://www.hebcenter.com/events/all', chrome: true, item: /<div class="m-eventItem /, title: /<h3 class="m-eventItem__title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+?)\s*</, when: /m-date__month">([^<]+)<\/span><span class="m-date__day">([^<]+)<[\s\S]*?(?:m-eventItem__start">([^<]*)<|m-eventItem__buttons btn-group)/, drop: /parking/i }, // the arena's Carbonhouse list ("Oct 31", "7:07 PM"; no year printed), secondary (2026-10-27)
       alias: /h-?e-?b center/i,
     },
     'Dell Diamond': {
