@@ -1910,6 +1910,46 @@
    "time": "20:30",
    "url": "https://comeandtakeitproductions.com/event/fabio-frizzi-frizzi-2-fulci-the-concert/come-and-take-it-live/",
    "type": "concert"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "OC Chris Halloween Bash",
+   "date": "2026-10-29",
+   "time": "19:00",
+   "url": "https://comeandtakeitproductions.com/event/oc-chris-halloween-bash/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Zilker Sessions V ft. The Droptines & Angel White",
+   "date": "2026-10-29",
+   "time": "19:00",
+   "url": "https://antonesnightclub.com/tm-event/zilker-sessions-v-ft-the-droptines-angel-white/",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Texas Longhorns Womens Basketball vs. Eastern New Mexico Greyhounds Womens Basketball",
+   "date": "2026-10-29",
+   "time": "19:00:00",
+   "url": "https://www.moodycenteratx.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Bass Concert Hall",
+   "title": "Ali Wong Live",
+   "date": "2026-10-29",
+   "time": "19:00:00",
+   "url": "https://texasperformingarts.org/event/ali-wong-2026-bass-concert-hall-austin-texas/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Concourse Project",
+   "title": "Chris Stussy - Ages 21+",
+   "date": "2026-10-29",
+   "time": "21:00:00",
+   "url": "https://concourseproject.com/",
+   "type": "concert"
   }
  ]
 }
