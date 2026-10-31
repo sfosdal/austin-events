@@ -1950,6 +1950,64 @@
    "time": "21:00:00",
    "url": "https://concourseproject.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Fire From The Gods: Halloween Party",
+   "date": "2026-10-30",
+   "time": "18:00",
+   "url": "https://comeandtakeitproductions.com/event/fire-from-the-gods-halloween-party/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "Scoot Inn",
+   "title": "The War And Treaty",
+   "date": "2026-10-30",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/the-war-and-treaty-austin-texas-10-30-2026/event/3A0064C2AB9E9641",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "NoDak Palooza",
+   "date": "2026-10-30",
+   "time": "19:00:00",
+   "url": "http://acl-live.com/"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "Goodbye June w/ Cole Barnhill",
+   "date": "2026-10-30",
+   "time": "20:00:00",
+   "url": "https://www.3tenaustin.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Canceled: Ramón Ayala",
+   "date": "2026-10-30",
+   "time": "20:30",
+   "url": "https://moodycenteratx.com/event/ramon-ayala/",
+   "type": "concert"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Club 90s Presents Thrillerween",
+   "date": "2026-10-30",
+   "time": "20:30:00",
+   "url": "https://www.ticketmaster.com/club-90s-presents-thrillerween-austin-texas-10-30-2026/event/3A006536D0F2E3B2",
+   "age21": true,
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-29T01:12:35.788Z"
+  },
+  {
+   "venue": "The Concourse Project",
+   "title": "Dombresky (Extended Set)",
+   "date": "2026-10-30",
+   "time": "21:00",
+   "url": "https://wl.seetickets.us/event/Dombresky-Extended-Set-at-The-Concourse-Project/695046?afflky=TheConcourseProject",
+   "type": "concert"
   }
  ]
 }
