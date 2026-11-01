@@ -1090,6 +1090,14 @@
    }
   },
   {
+   "venue": "ACL Live",
+   "title": "Alison Krauss & Union Station featuring Jerry Douglas",
+   "date": "2026-09-24",
+   "time": "20:00",
+   "url": "https://www.acllive.com/event/2026-09-24-alison-krauss-union-station-featuring-jerry-douglas-at-8-pm",
+   "type": "concert"
+  },
+  {
    "venue": "Zilker Park",
    "title": "Austin City Limits Music Festival",
    "date": "2026-10-02",
@@ -1663,8 +1671,9 @@
    "venue": "ACL Live",
    "title": "Shyne",
    "date": "2026-10-23",
-   "time": "20:00:00",
-   "url": "http://acl-live.com/"
+   "time": "20:00",
+   "url": "https://www.acllive.com/event/2026-10-23-shyne-at-8-pm",
+   "type": "concert"
   },
   {
    "venue": "Bass Concert Hall",
@@ -1795,9 +1804,9 @@
    "venue": "ACL Live",
    "title": "Brincos Dieras",
    "date": "2026-10-25",
-   "time": "20:00:00",
-   "url": "http://acl-live.com/",
-   "type": "arts"
+   "time": "20:00",
+   "url": "https://www.acllive.com/event/2026-10-25-brincos-dieras-at-8-pm",
+   "type": "concert"
   },
   {
    "venue": "The Concourse Project",
