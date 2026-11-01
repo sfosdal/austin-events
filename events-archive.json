@@ -2008,6 +2008,79 @@
    "time": "21:00",
    "url": "https://wl.seetickets.us/event/Dombresky-Extended-Set-at-The-Concourse-Project/695046?afflky=TheConcourseProject",
    "type": "concert"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Over 30’s Halloween Day Party",
+   "date": "2026-10-31",
+   "time": "16:00",
+   "url": "https://comeandtakeitproductions.com/event/over-30s-halloween-day-party/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "DKR Stadium",
+   "title": "Texas Longhorns Football vs. Mississippi State Bulldogs Football",
+   "date": "2026-10-31",
+   "time": "18:30:00",
+   "url": "https://texaslonghorns.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN",
+     "Disney+"
+    ]
+   }
+  },
+  {
+   "venue": "Scoot Inn",
+   "title": "Mr. Fantasy - Sexy Saturday Nights Tour",
+   "date": "2026-10-31",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/mr-fantasy-sexy-saturday-nights-tour-austin-texas-10-31-2026/event/3A006528A3BF78A0",
+   "type": "concert"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "2026 U.S. Hockey Hall of Fame Game",
+   "date": "2026-10-31",
+   "time": "19:07:00",
+   "url": "https://www.ticketmaster.com/2026-us-hockey-hall-of-fame-cedar-park-texas-10-31-2026/event/3A006351EBF8AF56",
+   "type": "sports"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Madeon",
+   "date": "2026-10-31",
+   "time": "20:00:00",
+   "url": "http://acl-live.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Kennedy Ryon: The Can We Evolve? Tour",
+   "date": "2026-10-31",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/kennedy-ryon-the-can-we-evolve-austin-texas-10-31-2026/event/3A0064FCBC53CD15",
+   "age21": true,
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-27T17:17:28.426Z"
+  },
+  {
+   "venue": "The Concourse Project",
+   "title": "Four Tet (Extended Set)",
+   "date": "2026-10-31",
+   "time": "21:00",
+   "url": "https://wl.seetickets.us/event/Four-Tet-Extended-Set-at-The-Concourse-Project/695214?afflky=TheConcourseProject",
+   "type": "concert"
+  },
+  {
+   "venue": "The Concourse Project",
+   "title": "Four Tet (21 and Over)",
+   "date": "2026-10-31",
+   "time": "22:00:00",
+   "url": "https://concourseproject.com/",
+   "type": "concert"
   }
  ]
 }
