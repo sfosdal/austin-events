@@ -2090,6 +2090,33 @@
    "time": "22:00:00",
    "url": "https://concourseproject.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Mookey Baby",
+   "date": "2026-11-01",
+   "time": "19:00",
+   "url": "https://comeandtakeitproductions.com/event/mookey-baby/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Jim Henson's Labyrinth: In Concert",
+   "date": "2026-11-01",
+   "time": "20:00:00",
+   "url": "http://acl-live.com/",
+   "type": "movie"
+  },
+  {
+   "venue": "Antone's",
+   "title": "City of the Sun",
+   "date": "2026-11-01",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/city-of-the-sun-austin-texas-11-01-2026/event/3A0064E9A77FB239",
+   "age21": true,
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-21T18:01:18.312Z"
   }
  ]
 }
