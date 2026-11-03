@@ -398,6 +398,7 @@
     teams: TEAMS,
     map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
       kind: 'urban',
+      boundary: { osm: 113314 }, // the city line, always drawn (Steve, 2026-11-02): OpenStreetMap's boundary relation for Austin
       bbox: [29.76, -98.236, 30.644, -97.552], // south, west, north, east — every room, with a margin
       home: [30.073, -97.802, 30.449, -97.602], // the view at first: the city's own rooms; the fit button shows the whole frame
       roads: ['motorway', 'trunk', 'primary'],
