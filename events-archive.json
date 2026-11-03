@@ -2117,6 +2117,28 @@
    "type": "concert",
    "status": "cancelled",
    "statusSince": "2026-10-21T18:01:18.312Z"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Blue Monday w/ Soul Man Sam & Brad Stivers",
+   "date": "2026-11-02",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/blue-monday-w-soul-man-sam-austin-texas-11-02-2026/event/3A00655B91A95C39",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Texas Longhorns Mens Basketball vs. Chicago State Cougars Mens Basketball",
+   "date": "2026-11-02",
+   "time": "20:00:00",
+   "url": "https://www.moodycenteratx.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "SEC Network"
+    ]
+   }
   }
  ]
 }
