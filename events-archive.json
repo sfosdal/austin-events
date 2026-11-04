@@ -2139,6 +2139,46 @@
      "SEC Network"
     ]
    }
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "HAVOK",
+   "date": "2026-11-03",
+   "time": "18:00",
+   "url": "https://comeandtakeitproductions.com/event/havok/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Knox",
+   "date": "2026-11-03",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/knox-austin-texas-11-03-2026/event/3A0064E6DE9ABC7D",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Doja Cat",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "url": "https://moodycenteratx.com/event/doja-cat-2026/",
+   "type": "concert"
+  },
+  {
+   "venue": "Bass Concert Hall",
+   "title": "A Beautiful Noise (Touring)",
+   "date": "2026-11-03",
+   "time": "19:30:00",
+   "url": "https://texasperformingarts.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "All Get Out",
+   "date": "2026-11-03",
+   "time": "20:00:00",
+   "url": "https://www.3tenaustin.com/",
+   "type": "concert"
   }
  ]
 }
