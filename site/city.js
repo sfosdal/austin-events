@@ -345,10 +345,81 @@
       tm: { id: 'KovZpZAIdEeA', match: 'whitewater', fallbackUrl: 'https://whitewaterrocks.com/', exclude: /parking|camping/i },
       alias: /whitewater amphitheat/i,
     },
+    // --- On DICE (2026-11-03, Steve: "add all dice venues in cities/neighborhoods covered"): every venue on DICE's city page inside the map, read from its public DICE venue page ---
+    'The 13th Floor': { // on DICE (711 Red River Street, Austin, Texas 78701); its DICE venue page is the listing (2026-11-03)
+      geo: [30.26781, -97.73653],
+      area: 'town',
+      type: 'concert',
+      cssVar: '--v-13thfloor',
+      color: '#ea86aa',
+      url: 'https://the13thflooraustin.com/',
+      icon: 'https://www.google.com/s2/favicons?domain=the13thflooraustin.com&sz=128',
+      feed: { kind: 'dice', url: 'https://dice.fm/venue/8289' },
+    },
+    'Hotel Vegas': { // on DICE (1502 E 6th St, Austin, TX 78702); its DICE venue page is the listing (2026-11-03)
+      geo: [30.26357, -97.72730],
+      area: 'town',
+      type: 'concert',
+      cssVar: '--v-hotelvegas',
+      color: '#f0b4a8',
+      url: 'https://texashotelvegas.com/',
+      icon: 'https://www.google.com/s2/favicons?domain=texashotelvegas.com&sz=128',
+      feed: { kind: 'dice', url: 'https://dice.fm/venue/7720' },
+    },
+    'Sagebrush': { // on DICE (5500 South Congress Avenue, Austin, Texas 78745); its DICE venue page is the listing (2026-11-03)
+      geo: [30.20622, -97.77474],
+      area: 'town',
+      type: 'concert',
+      cssVar: '--v-sagebrush',
+      color: '#dfe363',
+      url: 'https://sagebrushtexas.com/',
+      icon: 'https://www.google.com/s2/favicons?domain=sagebrushtexas.com&sz=128',
+      feed: { kind: 'dice', url: 'https://dice.fm/venue/11003' },
+    },
+    'Chess Club': { // on DICE (617 Red River St, Austin, TX 78701); its DICE venue page is the listing (2026-11-03)
+      geo: [30.26725, -97.73667],
+      area: 'town',
+      type: 'concert',
+      cssVar: '--v-chessclub',
+      color: '#86c8ea',
+      url: 'https://dice.fm/venue/7812',
+      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      feed: { kind: 'dice', url: 'https://dice.fm/venue/7812' },
+    },
+    'Vinyl Beauty Bar': { // on DICE (2400 East Cesar Chavez Street Suite 312, Austin, Texas 78704); its DICE venue page is the listing (2026-11-03)
+      geo: [30.25478, -97.71734],
+      area: 'town',
+      type: 'concert',
+      cssVar: '--v-vinylbeautybar',
+      color: '#f0cca8',
+      url: 'https://dice.fm/venue/19749',
+      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      feed: { kind: 'dice', url: 'https://dice.fm/venue/19749' },
+    },
+    'The Baths': { // on DICE (207 San Jacinto Boulevard, STE 100, Austin, Texas 78701); its DICE venue page is the listing (2026-11-03)
+      geo: [30.26420, -97.74136],
+      area: 'town',
+      type: 'concert',
+      cssVar: '--v-baths',
+      color: '#63e3ca',
+      url: 'https://dice.fm/venue/17606',
+      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      feed: { kind: 'dice', url: 'https://dice.fm/venue/17606' },
+    },
+    'Scottish Rite Theater': { // on DICE (207 West 18th Street, Austin, Texas 78701); its DICE venue page is the listing (2026-11-03)
+      geo: [30.27998, -97.74070],
+      area: 'town',
+      type: 'concert',
+      cssVar: '--v-scottishriteth',
+      color: '#9a86ea',
+      url: 'https://dice.fm/venue/18934',
+      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      feed: { kind: 'dice', url: 'https://dice.fm/venue/18934' },
+    },
   };
 
   // The usual view: every room on — nothing here lists nightly bar programs
-  var DEFAULT_ON = ['Moody Center', 'Q2 Stadium', 'DKR Stadium', 'Moody Amphitheater', 'ACL Live', '3TEN ACL Live', 'Bass Concert Hall', 'Circuit of the Americas', 'Germania Insurance Amphitheater', 'H-E-B Center', 'Dell Diamond', 'Zilker Park', "Stubb's", "Emo's", 'Mohawk', 'Scoot Inn', "Antone's", 'Come and Take It Live', 'The Concourse Project', 'Radio/East', 'Whitewater Amphitheater'];
+  var DEFAULT_ON = ['Moody Center', 'Q2 Stadium', 'DKR Stadium', 'Moody Amphitheater', 'ACL Live', '3TEN ACL Live', 'Bass Concert Hall', 'Circuit of the Americas', 'Germania Insurance Amphitheater', 'H-E-B Center', 'Dell Diamond', 'Zilker Park', "Stubb's", "Emo's", 'Mohawk', 'Scoot Inn', "Antone's", 'Come and Take It Live', 'The Concourse Project', 'Radio/East', 'Whitewater Amphitheater', 'The 13th Floor', 'Hotel Vegas', 'Sagebrush', 'Chess Club', 'Vinyl Beauty Bar', 'The Baths', 'Scottish Rite Theater'];
   var DEFAULT_OFF = [];
   var PREFS_KNOWN_FROM = null; // no default-off venue yet, so nothing for saved prefs to be told about
 
@@ -367,12 +438,14 @@
   // adding an entry adds a bit and every existing code keeps meaning what
   // it meant; removing or reordering one changes every link out there.
   // 34 slots from the first build: seven base-36 digits.
-  var CODE_LENGTH = 7;
+  var CODE_LENGTH = 8; // 2026-11-03: 41 slots with the DICE venues
   var REGISTRY = [
     ['venue', 'Moody Center'], ['venue', 'Q2 Stadium'], ['venue', 'DKR Stadium'], ['venue', 'Moody Amphitheater'], ['venue', 'ACL Live'], ['venue', '3TEN ACL Live'], ['venue', 'Bass Concert Hall'], ['venue', 'Circuit of the Americas'], ['venue', 'Germania Insurance Amphitheater'], ['venue', 'H-E-B Center'], ['venue', 'Dell Diamond'], ['venue', 'Zilker Park'], ['venue', "Stubb's"], ['venue', "Emo's"], ['venue', 'Mohawk'], ['venue', 'Scoot Inn'], ['venue', "Antone's"], ['venue', 'Come and Take It Live'], ['venue', 'The Concourse Project'], ['venue', 'Radio/East'], ['venue', 'Whitewater Amphitheater'],
     ['badge', 'concert'], ['badge', 'sports'], ['badge', 'arts'], ['badge', 'community'],
     ['team', 'longhorns'], ['team', 'texashoops'], ['team', 'austinfc'], ['team', 'express'], ['team', 'stars'],
     ['cap', 'stadium'], ['cap', 'arena'], ['cap', 'hall'], ['cap', 'room'],
+    ['venue', 'The 13th Floor'], ['venue', 'Hotel Vegas'], ['venue', 'Sagebrush'], ['venue', 'Chess Club'],
+    ['venue', 'Vinyl Beauty Bar'], ['venue', 'The Baths'], ['venue', 'Scottish Rite Theater'], // 2026-11-03: the DICE venues, 41 slots, 8 digits
   ];
 
   // The words the page uses for the place
