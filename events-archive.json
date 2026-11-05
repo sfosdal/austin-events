@@ -2179,6 +2179,55 @@
    "time": "20:00:00",
    "url": "https://www.3tenaustin.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Adelitas Way: Home School Valedictorian",
+   "date": "2026-11-04",
+   "time": "18:00",
+   "url": "https://comeandtakeitproductions.com/event/adelitas-way-home-school-valedictorian/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Texas Longhorns Womens Basketball vs. Fairleigh Dickinson Knights Womens Basketball",
+   "date": "2026-11-04",
+   "time": "19:00:00",
+   "url": "https://www.moodycenteratx.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Slow Pulp",
+   "date": "2026-11-04",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/slow-pulp-austin-texas-11-04-2026/event/3A0064A58FC6812F",
+   "type": "concert"
+  },
+  {
+   "venue": "Bass Concert Hall",
+   "title": "A Beautiful Noise (Touring)",
+   "date": "2026-11-04",
+   "time": "19:30:00",
+   "url": "https://texasperformingarts.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "Stephen Day",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "url": "https://www.acllive.com/event/2026-11-04-stephen-day-at-8-pm",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "An Evening with Shadowgrass",
+   "date": "2026-11-04",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/an-evening-with-shadowgrass-austin-texas-11-04-2026/event/3A00648AA621A4C8",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
