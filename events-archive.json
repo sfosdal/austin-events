@@ -2228,6 +2228,92 @@
    "url": "https://www.ticketmaster.com/an-evening-with-shadowgrass-austin-texas-11-04-2026/event/3A00648AA621A4C8",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Moody Amphitheater",
+   "title": "Knocked Loose & Denzel Curry",
+   "date": "2026-11-05",
+   "time": "18:45:00",
+   "url": "https://www.ticketmaster.com/knocked-loose-denzel-curry-austin-texas-11-05-2026/event/3A0064B6A531ADA0",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Amphitheater",
+   "title": "Premium Seating - Knocked Loose",
+   "date": "2026-11-05",
+   "time": "18:59:00",
+   "url": "https://www.ticketmaster.com/premium-seating-knocked-loose-austin-texas-11-05-2026/event/3A0064CCA2ADAA4D",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Texas Longhorns Mens Basketball vs. Gardner Webb Bulldogs Mens Basketball",
+   "date": "2026-11-05",
+   "time": "19:00:00",
+   "url": "https://www.moodycenteratx.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "SECN+"
+    ]
+   }
+  },
+  {
+   "venue": "Stubb's",
+   "title": "Dinosaur Jr. - Fall Tour 2026 with special guest Stef Chura",
+   "date": "2026-11-05",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/dinosaur-jr-fall-tour-2026-with-austin-texas-11-05-2026/event/3A0064DCDD1AC45A",
+   "type": "concert"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Bonobo: Distance in Static Live North American Tour",
+   "date": "2026-11-05",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/bonobo-distance-in-static-live-north-austin-texas-11-05-2026/event/3A0064C1E068D3A4",
+   "type": "concert"
+  },
+  {
+   "venue": "Bass Concert Hall",
+   "title": "A Beautiful Noise (Touring)",
+   "date": "2026-11-05",
+   "time": "19:30:00",
+   "url": "https://texasperformingarts.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The 13th Floor",
+   "title": "Cousin Mosquito w/ Pagan Love Call & Adam Johnson",
+   "date": "2026-11-05",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6adbef76e08a040001fb43c0",
+   "type": "concert"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "Ike Dweck",
+   "date": "2026-11-05",
+   "time": "20:00:00",
+   "url": "https://www.3tenaustin.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "The Jack Wharff Band w/ Tucker Stone",
+   "date": "2026-11-05",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-jack-wharff-band-w-tucker-austin-texas-11-05-2026/event/3A0064D6DE001448",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Hotel Vegas",
+   "title": "Most Personal",
+   "date": "2026-11-05",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6abe973f9854e80001c0ec8c",
+   "type": "concert"
   }
  ]
 }
