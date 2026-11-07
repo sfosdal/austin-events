@@ -2322,6 +2322,88 @@
    "time": "21:00",
    "url": "https://dice.fm/event/6abe973f9854e80001c0ec8c",
    "type": "concert"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Two Nights With They Might Be Giants - 2 Day Ticket(11/6/26 + 11/7/26)",
+   "date": "2026-11-06",
+   "time": "",
+   "url": "https://www.ticketmaster.com/two-nights-with-they-might-be-austin-texas-11-06-2026/event/3A0064E7CDEA9A03",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Stubb's",
+   "title": "Lenny Pearce - Toddler Rave World Tour",
+   "date": "2026-11-06",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/lenny-pearce-toddler-rave-world-tour-austin-texas-11-06-2026/event/3A0064DDBE2DC42C",
+   "type": "concert"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Mushroomhead and Fear Factory: Soul of a New Machine Tour",
+   "date": "2026-11-06",
+   "time": "18:00",
+   "url": "https://comeandtakeitproductions.com/event/mushroomhead-and-fear-factory-soul-of-a-new-machine-tour/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "John Summit",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "url": "https://moodycenteratx.com/event/john-summit/",
+   "type": "concert"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Texas Stars vs Chicago Wolves",
+   "date": "2026-11-06",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/texas-stars-vs-chicago-wolves-cedar-park-texas-11-06-2026/event/3A006513D31A1C6D",
+   "type": "sports"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Two Nights With They Might Be Giants",
+   "date": "2026-11-06",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/two-nights-with-they-might-be-austin-texas-11-06-2026/event/3A006487D8DA2D98",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "On Company Time",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.3tenaustin.com/"
+  },
+  {
+   "venue": "Bass Concert Hall",
+   "title": "A Beautiful Noise (Touring)",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://texasperformingarts.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Low Cut Connie w/ Laney Jones and the Spirits",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/low-cut-connie-w-laney-jones-austin-texas-11-06-2026/event/3A00648B0ACD5EA2",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "The Baths",
+   "title": "Toman",
+   "date": "2026-11-06",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6aa775c86b0396000144fc9b",
+   "type": "concert"
   }
  ]
 }
