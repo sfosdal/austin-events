@@ -379,7 +379,7 @@
       cssVar: '--v-chessclub',
       color: '#86c8ea',
       url: 'https://dice.fm/venue/7812',
-      icon: 'marks/venues/dice.fm.png',
+      icon: 'marks/venues/chessclubaustin.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/7812' },
     },
     'Vinyl Beauty Bar': { // on DICE (2400 East Cesar Chavez Street Suite 312, Austin, Texas 78704); its DICE venue page is the listing (2026-11-03)
@@ -389,7 +389,7 @@
       cssVar: '--v-vinylbeautybar',
       color: '#f0cca8',
       url: 'https://dice.fm/venue/19749',
-      icon: 'marks/venues/dice.fm.png',
+      icon: 'marks/venues/vinylbeautybar.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/19749' },
     },
     'The Baths': { // on DICE (207 San Jacinto Boulevard, STE 100, Austin, Texas 78701); its DICE venue page is the listing (2026-11-03)
@@ -399,7 +399,6 @@
       cssVar: '--v-baths',
       color: '#63e3ca',
       url: 'https://dice.fm/venue/17606',
-      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/17606' },
     },
     'Scottish Rite Theater': { // on DICE (207 West 18th Street, Austin, Texas 78701); its DICE venue page is the listing (2026-11-03)
@@ -409,7 +408,7 @@
       cssVar: '--v-scottishriteth',
       color: '#9a86ea',
       url: 'https://dice.fm/venue/18934',
-      icon: 'marks/venues/dice.fm.png',
+      icon: 'marks/venues/scottishritetheater.org.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/18934' },
     },
   };
