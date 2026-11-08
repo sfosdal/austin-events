@@ -2404,6 +2404,143 @@
    "time": "21:00",
    "url": "https://dice.fm/event/6aa775c86b0396000144fc9b",
    "type": "concert"
+  },
+  {
+   "venue": "Chess Club",
+   "title": "Sparkbird, Wrongbird",
+   "date": "2026-11-07",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6a8e04860829bc000147b479",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Q2 Stadium",
+   "title": "Austin FC vs. Portland Timbers",
+   "date": "2026-11-07",
+   "time": "18:00",
+   "url": "https://www.q2stadium.com/event/austin-fc-vs-portland-timbers-4/",
+   "type": "sports"
+  },
+  {
+   "venue": "Scoot Inn",
+   "title": "Grateful Shred",
+   "date": "2026-11-07",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/grateful-shred-austin-texas-11-07-2026/event/3A0064829B8AE7F9",
+   "type": "concert"
+  },
+  {
+   "venue": "Stubb's",
+   "title": "Turnover - Down On Earth Tour",
+   "date": "2026-11-07",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/turnover-down-on-earth-tour-austin-texas-11-07-2026/event/3A0064D2D3014AA9",
+   "type": "concert"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "OK Goodnight",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "url": "https://comeandtakeitproductions.com/event/ok-goodnight/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "Sagebrush",
+   "title": "Jesse Daniel’s Album Release Live in Austin TX",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6ab6db60d3d2060001a17714",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Texas Longhorns Womens Basketball vs. Northern Colorado Bears Football",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://www.moodycenteratx.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Texas Stars vs Chicago Wolves",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/texas-stars-vs-chicago-wolves-cedar-park-texas-11-07-2026/event/3A006513D37B1D4A",
+   "type": "sports"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Two Nights With They Might Be Giants",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/two-nights-with-they-might-be-austin-texas-11-07-2026/event/3A006487D9252E5F",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "The 13th Floor",
+   "title": "Semihelix, Benko, The Et Ceteras",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ac7d9a23b3cd400014dba05",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl Beauty Bar",
+   "title": "Guzzlr! Mikky & The Doom! Sodomy Cop!",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ad9207ae5eaa500012dc7ef",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Amphitheater",
+   "title": "Expedited Entry & Social Club Happy Hour - Steve Lacy (5-7PM)",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/expedited-entry-social-club-happy-hour-austin-texas-11-07-2026/event/3A00650DCD1BD5DC"
+  },
+  {
+   "venue": "Moody Amphitheater",
+   "title": "Steve Lacy: Oh yeah? Tour",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/steve-lacy-oh-yeah-tour-austin-texas-11-07-2026/event/3A006505BA5CA4CF",
+   "type": "concert"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "Jervis Campbell",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://www.3tenaustin.com/"
+  },
+  {
+   "venue": "Bass Concert Hall",
+   "title": "A Beautiful Noise (Touring)",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://texasperformingarts.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Chess Club",
+   "title": "OBSKUROS",
+   "date": "2026-11-07",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6a6d0ffe6a0b2b000116a47a",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Soul Man Sam",
+   "date": "2026-11-07",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/soul-man-sam-austin-texas-11-07-2026/event/3A0065553F2BFD6F",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
