@@ -2549,6 +2549,107 @@
    "url": "https://www.ticketmaster.com/soul-man-sam-austin-texas-11-07-2026/event/3A0065553F2BFD6F",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Texas Death Match",
+   "date": "2026-11-08",
+   "time": "14:00",
+   "url": "https://comeandtakeitproductions.com/event/texas-death-match/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Austin Spurs vs Laketown Squadron",
+   "date": "2026-11-08",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/austin-spurs-vs-laketown-squadron-cedar-park-texas-11-08-2026/event/3A00651C8F2C7DC7",
+   "type": "sports"
+  },
+  {
+   "venue": "Antone's",
+   "title": "The Jazz Room: A Frank Sinatra & Louis Armstrong Tribute",
+   "date": "2026-11-08",
+   "time": "16:00",
+   "url": "https://antonesnightclub.com/tm-event/the-jazz-room-a-frank-sinatra-louis-armstrong-tribute-3/",
+   "type": "concert"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "Barton Hills Choir",
+   "date": "2026-11-08",
+   "time": "17:00:00",
+   "url": "https://www.3tenaustin.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Emo's",
+   "title": "The Army, The Navy",
+   "date": "2026-11-08",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/the-army-the-navy-austin-texas-11-08-2026/event/3A0064CA066E7A64",
+   "type": "concert"
+  },
+  {
+   "venue": "Bass Concert Hall",
+   "title": "A Beautiful Noise (Touring)",
+   "date": "2026-11-08",
+   "time": "18:30:00",
+   "url": "https://texasperformingarts.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Hotel Vegas",
+   "title": "Mystic 100’s, Gun Outfit, Guiding Light, Us the U.S.",
+   "date": "2026-11-08",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6ac6b56bf8dd130001d44b23",
+   "end": "23:30",
+   "type": "concert"
+  },
+  {
+   "venue": "Chess Club",
+   "title": "Drag Talk",
+   "date": "2026-11-08",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6a691c44f018850001a31280",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Three Nights with They Might Be Giants",
+   "date": "2026-11-08",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/three-nights-with-they-might-be-austin-texas-11-08-2026/event/3A006487DA93321B",
+   "age21": true,
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:13.641Z"
+  },
+  {
+   "venue": "The 13th Floor",
+   "title": "Stop Motion Orchestra w/ Dodo & Big Sky Collective",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ac48615465e57000104ad15",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Wheel of Fortune Live!",
+   "date": "2026-11-08",
+   "time": "20:00:00",
+   "url": "http://acl-live.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Maná",
+   "date": "2026-11-08",
+   "time": "20:30",
+   "url": "https://moodycenteratx.com/event/mana-2026/",
+   "type": "concert"
   }
  ]
 }
