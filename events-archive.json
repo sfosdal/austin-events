@@ -2650,6 +2650,61 @@
    "time": "20:30",
    "url": "https://moodycenteratx.com/event/mana-2026/",
    "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Texas Longhorns Mens Basketball vs. Grambling State Tigers Basketball",
+   "date": "2026-11-09",
+   "time": "",
+   "url": "https://www.moodycenteratx.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "SEC Network"
+    ]
+   }
+  },
+  {
+   "venue": "Stubb's",
+   "title": "10 Years of 6LACK Tour",
+   "date": "2026-11-09",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/10-years-of-6lack-tour-austin-texas-11-09-2026/event/3A0064B6A505AD42",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:13.641Z"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Rival Sons - Domestic Bliss Tour",
+   "date": "2026-11-09",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/rival-sons-domestic-bliss-tour-austin-texas-11-09-2026/event/3A0064D0FAA324B2",
+   "type": "concert"
+  },
+  {
+   "venue": "Chess Club",
+   "title": "Taylor Bickett",
+   "date": "2026-11-09",
+   "time": "20:00",
+   "url": "https://dice.fm/event/69e6776fa85d0800016cc31e",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Olivia O'Brien Presents: The PIXIE Tour",
+   "date": "2026-11-09",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/olivia-obrien-presents-the-pixie-tour-austin-texas-11-09-2026/event/3A0064B404ADBCC9",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Art Garfunkel",
+   "date": "2026-11-09",
+   "time": "21:00:00",
+   "url": "http://acl-live.com/",
+   "type": "concert"
   }
  ]
 }
