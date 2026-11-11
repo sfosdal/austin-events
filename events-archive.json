@@ -2705,6 +2705,54 @@
    "time": "21:00:00",
    "url": "http://acl-live.com/",
    "type": "concert"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Texas Stars vs Manitoba Moose",
+   "date": "2026-11-10",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/texas-stars-vs-manitoba-moose-cedar-park-texas-11-10-2026/event/3A006513D53E20AB",
+   "type": "sports"
+  },
+  {
+   "venue": "Emo's",
+   "title": "KTSN Presents: Medium Build Presents The King of Having Fun on Tour",
+   "date": "2026-11-10",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/ktsn-presents-medium-build-presents-the-austin-texas-11-10-2026/event/3A0064D0B274A0F9",
+   "type": "concert"
+  },
+  {
+   "venue": "The 13th Floor",
+   "title": "Linda Gayle Lewis “Sister of The Killer Jerry Lee Lewis!” & Danny B Harvey w/ The Ugly Beats celebrating Bobby Trimble’s Birthday!",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6adbfffb0832c80001f60c6e",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "KATSEYE",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://moodycenteratx.com/event/katseye/",
+   "type": "concert"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "Liana Flores",
+   "date": "2026-11-10",
+   "time": "20:00:00",
+   "url": "https://www.3tenaustin.com/"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Greg Freeman",
+   "date": "2026-11-10",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/greg-freeman-austin-texas-11-10-2026/event/3A0064DD3ADAB842",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
