@@ -2753,6 +2753,71 @@
    "url": "https://www.ticketmaster.com/greg-freeman-austin-texas-11-10-2026/event/3A0064DD3ADAB842",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Scoot Inn",
+   "title": "Slothrust: The Dystopian Theatre Tour",
+   "date": "2026-11-11",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/slothrust-the-dystopian-theatre-tour-austin-texas-11-11-2026/event/3A0064D1BAECD36F",
+   "type": "concert"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Comeback Kid",
+   "date": "2026-11-11",
+   "time": "18:00",
+   "url": "https://comeandtakeitproductions.com/event/comeback-kid/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Texas Longhorns Womens Basketball vs. South Dakota State Jackrabbits Womens Basketball",
+   "date": "2026-11-11",
+   "time": "18:00:00",
+   "url": "https://www.moodycenteratx.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Texas Stars vs Manitoba Moose",
+   "date": "2026-11-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/texas-stars-vs-manitoba-moose-cedar-park-texas-11-11-2026/event/3A006513D56020E9",
+   "type": "sports"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Jose Madero - USA Tour 2026",
+   "date": "2026-11-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/jose-madero-usa-tour-2026-austin-texas-11-11-2026/event/3A0064D196617E5C",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Alton Brown",
+   "date": "2026-11-11",
+   "time": "19:30:00",
+   "url": "http://acl-live.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "The 13th Floor",
+   "title": "Scoochie Boochie - The Drinking Fountain of Youth Tour w/ Groovebox and Ryan Dove",
+   "date": "2026-11-11",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a9703e36ae7fc0001a5dad3",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Paul Val w/ Nicky Diamonds & Tallula Junction",
+   "date": "2026-11-11",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/paul-val-w-nicky-diamonds-tallula-austin-texas-11-11-2026/event/3A00651BE9CF996E",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
