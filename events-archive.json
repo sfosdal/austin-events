@@ -2818,6 +2818,64 @@
    "url": "https://www.ticketmaster.com/paul-val-w-nicky-diamonds-tallula-austin-texas-11-11-2026/event/3A00651BE9CF996E",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Hotel Vegas",
+   "title": "Haute Hot Heat Vol 3",
+   "date": "2026-11-12",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6ad663296386d3000125fe76",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Get A.I. The F*CK Out Of Austin Music",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "url": "https://comeandtakeitproductions.com/event/get-a-i-the-fck-out-of-austin-music/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Treaty Oak Revival",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "url": "https://moodycenteratx.com/event/treaty-oak-revival/",
+   "type": "concert"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Leanne Morgan: The Time Of Our Lives Tour",
+   "date": "2026-11-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/leanne-morgan-the-time-of-our-cedar-park-texas-11-12-2026/event/3A00647A8A105269",
+   "type": "arts"
+  },
+  {
+   "venue": "The 13th Floor",
+   "title": "Shysters, Zeus Apollo, Object Fiction",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ae2592f00d2a20001fd28b5",
+   "type": "concert"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "Bebe Stockwell",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "url": "https://www.acllive.com/event/2026-11-12-bebe-stockwell-at-8-pm",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Andrew Duhon: Stop Motion Tour '26 w/ Matt Kirk",
+   "date": "2026-11-12",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/andrew-duhon-stop-motion-tour-26-austin-texas-11-12-2026/event/3A0064C8C594C537",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
