@@ -2876,6 +2876,119 @@
    "url": "https://www.ticketmaster.com/andrew-duhon-stop-motion-tour-26-austin-texas-11-12-2026/event/3A0064C8C594C537",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Circuit of the Americas",
+   "title": "DroneArt Show: Harry Potter",
+   "date": "2026-11-13",
+   "time": "",
+   "url": "https://feverup.com/m/618539/?utm_source=digital_outreach&utm_medium=venue&utm_content=cota&utm_term=website&utm_campaign=618539_aus",
+   "type": "sports"
+  },
+  {
+   "venue": "The Concourse Project",
+   "title": "Seismic Dance Event (18 and Over) - Friday",
+   "date": "2026-11-13",
+   "time": "16:00:00",
+   "url": "https://concourseproject.com/calendar/",
+   "type": "arts"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Earlybirds Club",
+   "date": "2026-11-13",
+   "time": "18:00:00",
+   "url": "http://acl-live.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Scoot Inn",
+   "title": "Tiny Habits",
+   "date": "2026-11-13",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/tiny-habits-austin-texas-11-13-2026/event/3A0064C4B407ABE7",
+   "type": "concert"
+  },
+  {
+   "venue": "Hotel Vegas",
+   "title": "Vinilious Records Presents Killer Kaya, Ojospielcanela (Cdmx), Eddie Angel, Rafa (Satx)",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6ae7f2891f1de20001069697",
+   "type": "concert"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Leanne Morgan: The Time Of Our Lives Tour",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/leanne-morgan-the-time-of-our-cedar-park-texas-11-13-2026/event/3A006473E6BD507C",
+   "type": "arts"
+  },
+  {
+   "venue": "Stubb's",
+   "title": "Night Cap",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/night-cap-austin-texas-11-13-2026/event/3A006518F5D0291F",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-27T17:17:28.426Z"
+  },
+  {
+   "venue": "Emo's",
+   "title": "El Tri",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/el-tri-austin-texas-11-13-2026/event/3A0064A1C57166AE",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Jonas Brothers",
+   "date": "2026-11-13",
+   "time": "19:30",
+   "url": "https://moodycenteratx.com/event/jonasbrothers/",
+   "type": "concert"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Andrew Garden",
+   "date": "2026-11-13",
+   "time": "19:45",
+   "url": "https://comeandtakeitproductions.com/event/andrew-garden/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "The 13th Floor",
+   "title": "Daisychain w/ Heavy Velvet and Spiral",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a920ca6a0dc52000111d347",
+   "type": "concert"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "Father of Peace",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://www.3tenaustin.com/"
+  },
+  {
+   "venue": "Vinyl Beauty Bar",
+   "title": "Leslie Sisson's Birthday Bash! Vinyl Release!",
+   "date": "2026-11-13",
+   "time": "20:30",
+   "url": "https://dice.fm/event/6ad8ac3b5935e70001084092",
+   "type": "concert"
+  },
+  {
+   "venue": "Chess Club",
+   "title": "Seance Presents: Beggar (Live Debut) + more",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6aecdc5b7e987b000119bd12",
+   "type": "concert"
   }
  ]
 }
