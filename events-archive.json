@@ -2989,6 +2989,133 @@
    "time": "21:00",
    "url": "https://dice.fm/event/6aecdc5b7e987b000119bd12",
    "type": "concert"
+  },
+  {
+   "venue": "Circuit of the Americas",
+   "title": "DroneArt Show: Harry Potter",
+   "date": "2026-11-14",
+   "time": "",
+   "url": "https://feverup.com/m/618539/?utm_source=digital_outreach&utm_medium=venue&utm_content=cota&utm_term=website&utm_campaign=618539_aus",
+   "type": "sports"
+  },
+  {
+   "venue": "The Concourse Project",
+   "title": "Aftershock Fri: Chris Liebing, horsegiirL + VTSS",
+   "date": "2026-11-14",
+   "time": "01:30",
+   "url": "https://wl.eventim.us/event/Aftershock-Fri-Chris-Liebing-horsegiirL-VTSS/709575?afflky=SeismicDanceEvent",
+   "type": "concert"
+  },
+  {
+   "venue": "The Concourse Project",
+   "title": "Seismic Dance Event (18 and Over) - Saturday",
+   "date": "2026-11-14",
+   "time": "15:00:00",
+   "url": "https://concourseproject.com/calendar/",
+   "type": "arts"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Perfect Image",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "url": "https://comeandtakeitproductions.com/event/perfect-image/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Michael Blaustein",
+   "date": "2026-11-14",
+   "time": "19:00:00",
+   "url": "http://acl-live.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Bass Concert Hall",
+   "title": "Nurse John: Against Medical Advice Tour",
+   "date": "2026-11-14",
+   "time": "19:00:00",
+   "url": "https://texasperformingarts.evenue.net/events/nurse-john-against-medical-advice?RSRC=tex-pac&RDAT=NURSEj-grp-hum.",
+   "type": "arts"
+  },
+  {
+   "venue": "Stubb's",
+   "title": "Switchfoot with special guest Anberlin - Forever Now Tour",
+   "date": "2026-11-14",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/switchfoot-with-special-guest-anberlin-forever-austin-texas-11-14-2026/event/3A0064A69F44BF99",
+   "type": "concert"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Danna - The Bedroom Sessions US Tour",
+   "date": "2026-11-14",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/danna-the-bedroom-sessions-us-tour-austin-texas-11-14-2026/event/3A00651C9A4A98E5",
+   "type": "concert"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "SiM",
+   "date": "2026-11-14",
+   "time": "19:30:00",
+   "url": "https://www.comeandtakeitproductions.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "The 13th Floor",
+   "title": "Identity Crisis w/ Neapolitan & RA!",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a974a3d3dd09c0001126e63",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl Beauty Bar",
+   "title": "The Living Pins Album Release Party!",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ae4f7ae4c62200001487146",
+   "type": "concert"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "Olive Jones",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://www.3tenaustin.com/"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Intocable: Cultura Tour 2026",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/intocable-cultura-tour-2026-cedar-park-texas-11-14-2026/event/3A006487067DAEFD",
+   "type": "concert"
+  },
+  {
+   "venue": "Mohawk",
+   "title": "King Buffalo w/ L.A. Witch",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://mohawkaustin.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Radio/East",
+   "title": "Mannequin Pu**y w/ Wednesday - Band",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Sugaree & Cold Sweat",
+   "date": "2026-11-14",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/sugaree-cold-sweat-austin-texas-11-14-2026/event/3A006569BA9990C5",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
