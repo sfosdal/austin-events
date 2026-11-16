@@ -3116,6 +3116,54 @@
    "url": "https://www.ticketmaster.com/sugaree-cold-sweat-austin-texas-11-14-2026/event/3A006569BA9990C5",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "The Concourse Project",
+   "title": "Aftershock Sat: Max Styler + SG Lewis",
+   "date": "2026-11-15",
+   "time": "01:30",
+   "url": "https://wl.eventim.us/event/Aftershock-Sat-Max-Styler-SG-Lewis/709583?afflky=SeismicDanceEvent",
+   "type": "concert"
+  },
+  {
+   "venue": "The Concourse Project",
+   "title": "Seismic Dance Event (18 and Over) - Sunday",
+   "date": "2026-11-15",
+   "time": "14:00:00",
+   "url": "https://concourseproject.com/calendar/",
+   "type": "arts"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Austin Spurs vs Memphis Hustle",
+   "date": "2026-11-15",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/austin-spurs-vs-memphis-hustle-cedar-park-texas-11-15-2026/event/3A00651C8F4A7DEF",
+   "type": "sports"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Clara La San - Chosen Silences Tour Fall 2026",
+   "date": "2026-11-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/clara-la-san-chosen-silences-tour-austin-texas-11-15-2026/event/3A00650BB173ADDF",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Makaya McCraven",
+   "date": "2026-11-15",
+   "time": "20:00",
+   "url": "https://antonesnightclub.com/tm-event/makaya-mccraven/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Concourse Project",
+   "title": "Aftershock Sun: KI/KI, Layton Giordani + Volkoder",
+   "date": "2026-11-15",
+   "time": "23:30",
+   "url": "https://wl.eventim.us/event/Aftershock-Sun-KIKI-Layton-Giordani-Volkoder/709587?afflky=SeismicDanceEvent",
+   "type": "concert"
   }
  ]
 }
