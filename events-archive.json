@@ -3164,6 +3164,29 @@
    "time": "23:30",
    "url": "https://wl.eventim.us/event/Aftershock-Sun-KIKI-Layton-Giordani-Volkoder/709587?afflky=SeismicDanceEvent",
    "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Blue Monday w/ Soul Man Sam & Lindsay Beaver ",
+   "date": "2026-11-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/blue-monday-w-soul-man-sam-austin-texas-11-16-2026/event/3A00655CCC08D36E",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": 382,
+    "resale": 0,
+    "checked": "2026-11-16T23:19:20.159Z",
+    "from": 13.5
+   }
+  },
+  {
+   "venue": "Bass Concert Hall",
+   "title": "On Cinema Live",
+   "date": "2026-11-16",
+   "time": "20:00:00",
+   "url": "https://texasperformingarts.org/",
+   "type": "arts"
   }
  ]
 }
