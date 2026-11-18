@@ -3187,6 +3187,29 @@
    "time": "20:00:00",
    "url": "https://texasperformingarts.org/",
    "type": "arts"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Forbidden: Chaos By Design US Tour 2026",
+   "date": "2026-11-17",
+   "time": "18:00",
+   "url": "https://comeandtakeitproductions.com/event/forbidden-chaos-by-design-us-tour-2026/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Amble",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/amble-austin-texas-11-17-2026/event/3A006496EF8487E5",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 33,
+    "checked": "2026-11-16T23:26:37.860Z",
+    "from": 24
+   },
+   "soldOut": true
   }
  ]
 }
