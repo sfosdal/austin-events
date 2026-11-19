@@ -3210,6 +3210,78 @@
     "from": 24
    },
    "soldOut": true
+  },
+  {
+   "venue": "Scoot Inn",
+   "title": "Holywatr: Deo Gratias Tour",
+   "date": "2026-11-18",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/holywatr-deo-gratias-tour-austin-texas-11-18-2026/event/3A0064AC03DF6EB9",
+   "type": "concert",
+   "tickets": {
+    "box": 157,
+    "resale": 0,
+    "checked": "2026-11-17T00:12:32.443Z",
+    "from": 25
+   }
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Heal The Hurt: No Hope In Hell Tour",
+   "date": "2026-11-18",
+   "time": "18:00",
+   "url": "https://comeandtakeitproductions.com/event/heal-the-hurt-no-hope-in-hell-tour/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Evan Honer - It's An Even Longer Road Tour",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/evan-honer-its-an-even-longer-austin-texas-11-18-2026/event/3A0064C2B970AC59",
+   "type": "concert",
+   "tickets": {
+    "box": 842,
+    "resale": 0,
+    "checked": "2026-11-17T00:12:34.685Z",
+    "from": 27
+   }
+  },
+  {
+   "venue": "ACL Live",
+   "title": "The Music of Hey Arnold",
+   "date": "2026-11-18",
+   "time": "20:00:00",
+   "url": "http://acl-live.com/"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Derek Hough - Dance For The Holidays",
+   "date": "2026-11-18",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/derek-hough-dance-for-the-holidays-cedar-park-texas-11-18-2026/event/3A0064F0F8EB81D5",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:12:54.775Z",
+    "from": 61
+   }
+  },
+  {
+   "venue": "Antone's",
+   "title": "Stop Light Observations w/ Runner and Bobby",
+   "date": "2026-11-18",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/stop-light-observations-w-runner-and-austin-texas-11-18-2026/event/3A0064B3DE341651",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": 208,
+    "resale": 0,
+    "checked": "2026-11-17T00:12:56.727Z",
+    "from": 26.5
+   }
   }
  ]
 }
