@@ -3282,6 +3282,116 @@
     "checked": "2026-11-17T00:12:56.727Z",
     "from": 26.5
    }
+  },
+  {
+   "venue": "Scoot Inn",
+   "title": "KUTX's Horizontes Pres:Aterciopelados: La Pipa De Laz Paz 30 Anos Tour",
+   "date": "2026-11-19",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/kutxs-horizontes-presaterciopelados-la-pipa-de-austin-texas-11-19-2026/event/3A0064F5E8D0253C",
+   "type": "concert",
+   "tickets": {
+    "box": 643,
+    "resale": 0,
+    "checked": "2026-11-17T00:23:09.987Z",
+    "from": 35
+   }
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Velvet Lab: EP Release Party",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "url": "https://comeandtakeitproductions.com/event/velvet-lab-ep-release-party/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hotel Vegas",
+   "title": "Mock Lobster with CorMae",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6adbffce0832c80001f19c55",
+   "end": "22:30",
+   "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Texas Longhorns Mens Basketball vs. Southern Utah Thunderbirds Mens Basketball",
+   "date": "2026-11-19",
+   "time": "19:00:00",
+   "url": "https://www.moodycenteratx.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "SECN+"
+    ]
+   }
+  },
+  {
+   "venue": "Stubb's",
+   "title": "An Evening With Band Of Horses",
+   "date": "2026-11-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/an-evening-with-band-of-horses-austin-texas-11-19-2026/event/3A0064A79A26A82B",
+   "type": "concert",
+   "tickets": {
+    "box": 357,
+    "resale": 0,
+    "checked": "2026-11-17T00:23:12.434Z",
+    "from": 40.5
+   }
+  },
+  {
+   "venue": "Emo's",
+   "title": "Dexter and The Moonrocks",
+   "date": "2026-11-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-austin-texas-11-19-2026/event/3A0064C2F2FCF0DC",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 81,
+    "checked": "2026-11-17T00:23:14.664Z",
+    "from": 71
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "The 13th Floor",
+   "title": "Donny’s Demeanor w/ Team Trust, Outside View, Vegas Day Trip",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6af36eda9b057900019a37eb",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Los Dos de Tamaulipas",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "http://acl-live.com/"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "Daisy Grenade w/ Boyish",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.3tenaustin.com/"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Tank and The Bangas: The Last Balloon Tour w/ Ariel J. & ZEUS",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/tank-and-the-bangas-the-last-austin-texas-11-19-2026/event/3A00647300BB9F75",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": 193,
+    "resale": 0,
+    "checked": "2026-11-17T00:23:17.204Z",
+    "from": 31.5
+   }
   }
  ]
 }
