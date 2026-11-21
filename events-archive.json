@@ -3392,6 +3392,127 @@
     "checked": "2026-11-17T00:23:17.204Z",
     "from": 31.5
    }
+  },
+  {
+   "venue": "Circuit of the Americas",
+   "title": "Peppermint in The Park",
+   "date": "2026-11-20",
+   "time": "",
+   "url": "https://cotaland.com/peppermint-in-the-park/",
+   "type": "sports"
+  },
+  {
+   "venue": "Mohawk",
+   "title": "Static Dress",
+   "date": "2026-11-20",
+   "time": "18:30:00",
+   "url": "https://mohawkaustin.com/"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Bad Habit",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "url": "https://comeandtakeitproductions.com/event/bad-habit/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Texas Stars vs San Jose Barracuda",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/texas-stars-vs-san-jose-barracuda-cedar-park-texas-11-20-2026/event/3A006513D57F2129",
+   "type": "sports",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:39:02.973Z",
+    "from": 37.15
+   }
+  },
+  {
+   "venue": "Stubb's",
+   "title": "Paul Cauthen",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/paul-cauthen-austin-texas-11-20-2026/event/3A0064D6E73F2787",
+   "type": "concert",
+   "tickets": {
+    "box": 1409,
+    "resale": 0,
+    "checked": "2026-11-17T00:39:05.447Z",
+    "from": 26.25
+   }
+  },
+  {
+   "venue": "Emo's",
+   "title": "Dexter and The Moonrocks",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-austin-texas-11-20-2026/event/3A0064CFAE3F9E53",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 80,
+    "checked": "2026-11-17T00:39:08.147Z",
+    "from": 83
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Ty Myers",
+   "date": "2026-11-20",
+   "time": "19:30",
+   "url": "https://moodycenteratx.com/event/ty-myers-26/",
+   "type": "concert"
+  },
+  {
+   "venue": "The 13th Floor",
+   "title": "Minka w/ Frsh LMN",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a7390f82ae0be0001e8488b",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Chelsea Handler",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "http://acl-live.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "3TEN ACL Live",
+   "title": "Bryan Andrews w/ Lou Ridley",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.3tenaustin.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Tank and The Bangas: The Last Balloon Tour w/ Ariel J. & ZEUS",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/tank-and-the-bangas-the-last-austin-texas-11-20-2026/event/3A00647300BD9F82",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": 106,
+    "resale": 0,
+    "checked": "2026-11-17T00:39:11.934Z",
+    "from": 31.5
+   }
+  },
+  {
+   "venue": "The Concourse Project",
+   "title": "Kaskade at The Concourse Project (Outdoors) - Ages 18+",
+   "date": "2026-11-20",
+   "time": "21:00:00",
+   "url": "https://concourseproject.com/calendar/",
+   "type": "concert"
   }
  ]
 }
