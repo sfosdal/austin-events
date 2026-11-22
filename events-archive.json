@@ -3513,6 +3513,143 @@
    "time": "21:00:00",
    "url": "https://concourseproject.com/calendar/",
    "type": "concert"
+  },
+  {
+   "venue": "DKR Stadium",
+   "title": "Texas Longhorns Football vs. Arkansas Razorbacks Football",
+   "date": "2026-11-21",
+   "time": "14:30:00",
+   "url": "https://texaslonghorns.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN",
+     "Disney+"
+    ]
+   }
+  },
+  {
+   "venue": "The 13th Floor",
+   "title": "Matinee Show w/ Rebel Flesh, Hillside Wranglers, Shrill Yell",
+   "date": "2026-11-21",
+   "time": "15:30",
+   "url": "https://dice.fm/event/6af7a46d4360570001e2baa6",
+   "end": "19:30",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Antone’s: Home of the Blues FREE Documentary Screening",
+   "date": "2026-11-21",
+   "time": "16:30",
+   "url": "https://antonesnightclub.com/tm-event/antones-home-of-the-blues-free-documentary-screening/",
+   "type": "concert"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "I Set My Friends On Fire",
+   "date": "2026-11-21",
+   "time": "18:00",
+   "url": "https://comeandtakeitproductions.com/event/i-set-my-friends-on-fire-2/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "Scoot Inn",
+   "title": "The Afghan Whigs",
+   "date": "2026-11-21",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/the-afghan-whigs-austin-texas-11-21-2026/event/3A0064BCB786C3F2",
+   "type": "concert",
+   "tickets": {
+    "box": 310,
+    "resale": 0,
+    "checked": "2026-11-21T00:52:22.940Z",
+    "from": 30
+   }
+  },
+  {
+   "venue": "Sagebrush",
+   "title": "Dean Johnson & Cat Clyde live in Austin",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6a7297acf1a01900010e22f2",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Texas Stars vs San Jose Barracuda",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/texas-stars-vs-san-jose-barracuda-cedar-park-texas-11-21-2026/event/3A006513D5A121A5",
+   "type": "sports",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T01:08:02.600Z",
+    "from": 37.15
+   }
+  },
+  {
+   "venue": "Emo's",
+   "title": "Bahamas - Industrial Sport & Sound",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/bahamas-industrial-sport-sound-austin-texas-11-21-2026/event/3A006452B93B3A0F",
+   "type": "concert",
+   "tickets": {
+    "box": 246,
+    "resale": 0,
+    "checked": "2026-11-21T00:52:45.955Z",
+    "from": 30
+   }
+  },
+  {
+   "venue": "The 13th Floor",
+   "title": "Guzzlr w/ Heavy Velvet and Topdown",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ada59c6d69ccb0001a8f22b",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Lyle Lovett and his Small Large Band",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "http://acl-live.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Bobby Rush Show & Revue w/ Rodd Bland & the Members Only Band",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/bobby-rush-show-revue-w-rodd-austin-texas-11-21-2026/event/3A006545E2F2BA5D",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": 317,
+    "resale": 0,
+    "checked": "2026-11-21T00:52:48.960Z",
+    "from": 19
+   }
+  },
+  {
+   "venue": "The Concourse Project",
+   "title": "Eric Prydz",
+   "date": "2026-11-21",
+   "time": "21:00",
+   "url": "https://wl.seetickets.us/event/Eric-Prydz-at-The-Concourse-Project/691628?afflky=TheConcourseProject",
+   "type": "concert"
+  },
+  {
+   "venue": "The Baths",
+   "title": "Kinahau and Cole Terrazas",
+   "date": "2026-11-21",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ac325407005ba0001cd4138",
+   "type": "concert"
   }
  ]
 }
