@@ -3697,20 +3697,19 @@
    "type": "concert"
   },
   {
+   "venue": "Antone's",
+   "title": "North Mississippi Allstars",
+   "date": "2026-11-22",
+   "time": "20:00",
+   "url": "https://antonesnightclub.com/tm-event/north-mississippi-allstars-2/",
+   "type": "concert"
+  },
+  {
    "venue": "ACL Live",
    "title": "RAWAYANA - ¿Dónde es el after? World Tour",
    "date": "2026-11-22",
    "time": "20:00:00",
    "url": "https://www.axs.com/events/1371102/rawayana-tickets?skin=acllive",
-   "type": "concert"
-  },
-  {
-   "venue": "Antone's",
-   "title": "North Mississippi Allstars",
-   "date": "2026-11-22",
-   "time": "20:00:00",
-   "url": "https://www.ticketmaster.com/north-mississippi-allstars-austin-texas-11-22-2026/event/3A0064D1D3A20CA5",
-   "age21": true,
    "type": "concert"
   }
  ]
