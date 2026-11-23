@@ -3650,6 +3650,76 @@
    "time": "22:00",
    "url": "https://dice.fm/event/6ac325407005ba0001cd4138",
    "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Texas Longhorns Mens Basketball vs. Southern Indiana Screaming Eagles Mens Basketball",
+   "date": "2026-11-22",
+   "time": "14:00:00",
+   "url": "https://www.moodycenteratx.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "SECN+"
+    ]
+   }
+  },
+  {
+   "venue": "Scoot Inn",
+   "title": "Jalen Ngonda: Doctrine of Love Tour",
+   "date": "2026-11-22",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/jalen-ngonda-doctrine-of-love-tour-austin-texas-11-22-2026/event/3A0064C1DF54D27A",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-27T17:17:28.426Z"
+  },
+  {
+   "venue": "Emo's",
+   "title": "Syd: Beard Tour",
+   "date": "2026-11-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/syd-beard-tour-austin-texas-11-22-2026/event/3A00652BA143ABD3",
+   "type": "concert",
+   "tickets": {
+    "box": 1153,
+    "resale": 0,
+    "checked": "2026-11-17T01:26:06.588Z",
+    "from": 39.95
+   }
+  },
+  {
+   "venue": "Emo's",
+   "title": "Syd - Early Entry VIP Upgrade",
+   "date": "2026-11-22",
+   "time": "19:00:00",
+   "url": "https://www.vipnation.com/tour_date/syd-austin-tx-11-22-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "The 13th Floor",
+   "title": "Unwed Sailor w/ French Film, Proun & All Fours",
+   "date": "2026-11-22",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ac15a8227a6d2000118bfaa",
+   "type": "concert"
+  },
+  {
+   "venue": "ACL Live",
+   "title": "RAWAYANA - ¿Dónde es el after? World Tour",
+   "date": "2026-11-22",
+   "time": "20:00:00",
+   "url": "https://www.axs.com/events/1371102/rawayana-tickets?skin=acllive",
+   "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "North Mississippi Allstars",
+   "date": "2026-11-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/north-mississippi-allstars-austin-texas-11-22-2026/event/3A0064D1D3A20CA5",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
