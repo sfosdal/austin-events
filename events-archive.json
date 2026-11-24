@@ -3711,6 +3711,29 @@
    "time": "20:00:00",
    "url": "https://www.axs.com/events/1371102/rawayana-tickets?skin=acllive",
    "type": "concert"
+  },
+  {
+   "venue": "Antone's",
+   "title": "Blue Monday w/ Soul Man Sam & Brad Stivers",
+   "date": "2026-11-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/blue-monday-w-soul-man-sam-austin-texas-11-23-2026/event/3A00655CCC0AD377",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": 389,
+    "resale": 0,
+    "checked": "2026-11-23T00:30:24.435Z",
+    "from": 11.5
+   }
+  },
+  {
+   "venue": "ACL Live",
+   "title": "Adrianne Lenker w/ Staci Foster",
+   "date": "2026-11-23",
+   "time": "20:00:00",
+   "url": "http://acl-live.com/",
+   "type": "concert"
   }
  ]
 }
