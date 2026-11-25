@@ -215,7 +215,7 @@
       cssVar: '--v-dell',
       color: '#e186ea',
       url: 'https://www.milb.com/round-rock/schedule',
-      icon: 'marks/venues/milb.com.png',
+      icon: 'marks/venues/round-rock.svg',
       tm: { id: 'KovZpZA1v1lA', match: 'dell diamond', fallbackUrl: 'https://www.milb.com/round-rock/schedule', exclude: /parking/i },
       alias: /dell diamond/i,
     },
