@@ -3734,6 +3734,37 @@
    "time": "20:00:00",
    "url": "http://acl-live.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Stranger Strings",
+   "date": "2026-11-24",
+   "time": "18:00",
+   "url": "https://comeandtakeitproductions.com/event/stranger-strings/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Texas Stars vs Tucson Roadrunners",
+   "date": "2026-11-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/texas-stars-vs-tucson-roadrunners-cedar-park-texas-11-24-2026/event/3A006513D5C421DA",
+   "type": "sports",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:34:34.395Z",
+    "from": 37.15
+   }
+  },
+  {
+   "venue": "Antone's",
+   "title": "So Called Underground w/ Greyson Turner & Jeska",
+   "date": "2026-11-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/so-called-underground-w-greyson-turner-austin-texas-11-24-2026/event/3A006522D2E3843E",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
