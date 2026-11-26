@@ -3765,6 +3765,65 @@
    "url": "https://www.ticketmaster.com/so-called-underground-w-greyson-turner-austin-texas-11-24-2026/event/3A006522D2E3843E",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Moody Center",
+   "title": "Texas Longhorns Womens Basketball vs. Southeastern Louisiana Lions Womens Basketball",
+   "date": "2026-11-25",
+   "time": "18:00:00",
+   "url": "https://www.moodycenteratx.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Stubb's",
+   "title": "Imminence - Axis Mundi Tour: North America 2026",
+   "date": "2026-11-25",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/imminence-axis-mundi-tour-north-america-austin-texas-11-25-2026/event/3A0064CAAD18C9D4",
+   "type": "concert",
+   "tickets": {
+    "box": 1080,
+    "resale": 0,
+    "checked": "2026-11-23T00:43:16.777Z",
+    "from": 28.5
+   }
+  },
+  {
+   "venue": "Come and Take It Live",
+   "title": "Ho99o9 & N8NOFACE – Sincerely___ The Void",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "url": "https://comeandtakeitproductions.com/event/ho99o9-n8noface-sincerely___-the-void/come-and-take-it-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "H-E-B Center",
+   "title": "Texas Stars vs Tucson Roadrunners",
+   "date": "2026-11-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/texas-stars-vs-tucson-roadrunners-cedar-park-texas-11-25-2026/event/3A006513D5F5222D",
+   "type": "sports",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:43:36.965Z",
+    "from": 37.15
+   }
+  },
+  {
+   "venue": "Antone's",
+   "title": "Quentin Moore w/ Vandell Andrew ",
+   "date": "2026-11-25",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/quentin-moore-w-vandell-andrew-austin-texas-11-25-2026/event/3A0065150BDB3A6C",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": 343,
+    "resale": 0,
+    "checked": "2026-11-23T00:43:39.785Z",
+    "from": 19.5
+   }
   }
  ]
 }
